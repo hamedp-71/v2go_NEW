@@ -73,39 +73,48 @@ v2go/
 
 **Main subscription (recommended):**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/All_Configs_Sub.txt
 ```
 
 **Base64 encoded (if main link fails):**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_base64_Sub.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/All_Configs_base64_Sub.txt
 ```
 
 ### Protocol-Specific Subscriptions
 
+**hy2:**
+```
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/hy2.txt
+```
+
 **VLESS:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/vless.txt
 ```
 
 **VMess:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/vmess.txt
 ```
 
 **Shadowsocks:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/ss.txt
 ```
 
 **ShadowsocksR:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/ssr.txt
 ```
 
 **Trojan:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/trojan.txt
+```
+**tuic:**
+```
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/tuic.txt
 ```
 
 ### Split Subscriptions (500 configs each)
@@ -115,72 +124,72 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/tr
 
 **Config List 1:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub1.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub1.txt
 ```
 
 **Config List 2:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub2.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub2.txt
 ```
 
 **Config List 3:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub3.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub3.txt
 ```
 
 **Config List 4:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub4.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub4.txt
 ```
 
 **Config List 5:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub5.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub5.txt
 ```
 
 **Config List 6:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub6.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub6.txt
 ```
 
 **Config List 7:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub7.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub7.txt
 ```
 
 **Config List 8:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub8.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub8.txt
 ```
 
 **Config List 9:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub9.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub9.txt
 ```
 
 **Config List 10:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub10.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub10.txt
 ```
 
 **Config List 11:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub11.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub11.txt
 ```
 
 **Config List 12:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub12.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub12.txt
 ```
 
 **Config List 13:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub13.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub13.txt
 ```
 
 **Config List 14:**
 ```
-https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub14.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub14.txt
 ```
 
 </details>
@@ -290,6 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by Dani Samadi**
+**Made with ❤️ by hamedp71**
 
 *If you find this project useful, please consider giving it a ⭐ star!*
