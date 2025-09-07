@@ -105,12 +105,36 @@ func main() {
 	}
 
 	cleanExistingFiles(base64Folder)
+	
+	// نوشتن فایل اصلی
 	mainOutputFile := "All_Configs_Sub.txt"
 	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
 	if err != nil {
 		fmt.Printf("Error writing main config file: %v\n", err)
 		return
 	}
+	fmt.Printf("  - Successfully created %s\n", mainOutputFile)
+
+	// ======================================================================
+	// START: بخش جدید برای ساخت نسخه Base64
+	// ======================================================================
+	content, err := os.ReadFile(mainOutputFile)
+	if err != nil {
+		fmt.Printf("Warning: could not read main config file to create base64 version: %v\n", err)
+	} else {
+		encodedContent := base64.StdEncoding.EncodeToString(content)
+		base64OutputFile := "All_Configs_base64_Sub.txt"
+		err = os.WriteFile(base64OutputFile, []byte(encodedContent), 0644)
+		if err != nil {
+			fmt.Printf("Warning: could not write base64 main config file: %v\n", err)
+		} else {
+			fmt.Printf("  - Successfully created %s\n", base64OutputFile)
+		}
+	}
+	// ======================================================================
+	// END: بخش جدید
+	// ======================================================================
+
 	fmt.Println("Splitting into smaller files...")
 	err = splitIntoFiles(base64Folder, renamedConfigs)
 	if err != nil {
@@ -146,7 +170,6 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 		}
 		ip = ips[0]
 	}
-
 	apiURL := fmt.Sprintf("http://ip-api.com/json/%s?fields=status,countryCode", ip.String())
 	req, err := http.NewRequest("GET", apiURL, nil)
 	if err != nil {
@@ -155,18 +178,15 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer cancel()
 	req = req.WithContext(ctx)
-
 	resp, err := client.Do(req)
 	if err != nil {
 		return "", fmt.Errorf("API call failed: %v", err)
 	}
 	defer resp.Body.Close()
-
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return "", err
 	}
-
 	var geoInfo GeoIPResponse
 	if err := json.Unmarshal(body, &geoInfo); err != nil || geoInfo.Status != "success" {
 		return "", fmt.Errorf("failed to parse GeoIP response for %s", address)
@@ -231,11 +251,9 @@ func renameConfig(configLink string, client *http.Client) (string, error) {
 	default:
 		return configLink, fmt.Errorf("unsupported protocol for renaming: %s", protocol)
 	}
-
 	if flag, ok := ipToFlagCache.Load(address); ok {
 		return buildNewLink(protocol, mainPart, flag.(string)), nil
 	}
-
 	flag, err := getCountryFlag(address, client)
 	if err != nil {
 		return configLink, fmt.Errorf("could not get flag for %s: %v", address, err)
@@ -249,7 +267,6 @@ func splitByProtocol(configs []string) error {
 	if err := os.MkdirAll(protocolDir, 0755); err != nil {
 		return fmt.Errorf("could not create protocol directory: %v", err)
 	}
-
 	protocolConfigs := make(map[string][]string)
 	for _, config := range configs {
 		parts := strings.SplitN(config, "://", 2)
@@ -258,11 +275,9 @@ func splitByProtocol(configs []string) error {
 			protocolConfigs[protocol] = append(protocolConfigs[protocol], config)
 		}
 	}
-
 	for protocol, configsInProtocol := range protocolConfigs {
 		filename := filepath.Join(protocolDir, fmt.Sprintf("%s.txt", protocol))
 		content := strings.Join(configsInProtocol, "\n")
-		
 		if err := os.WriteFile(filename, []byte(content), 0644); err != nil {
 			fmt.Printf("Warning: could not write to file %s: %v\n", filename, err)
 		} else {
@@ -405,7 +420,7 @@ func filterForProtocols(data []string, protocols []string) []string {
 func cleanExistingFiles(base64Folder string) {
 	os.Remove("All_Configs_Sub.txt")
 	os.Remove("All_Configs_base64_Sub.txt")
-	os.RemoveAll("Splitted-By-Protocol") // پاک کردن پوشه قدیمی
+	os.RemoveAll("Splitted-By-Protocol")
 	for i := 0; i < 20; i++ {
 		os.Remove(fmt.Sprintf("Sub%d.txt", i))
 		os.Remove(filepath.Join(base64Folder, fmt.Sprintf("Sub%d_base64.txt", i)))
