@@ -16,7 +16,6 @@ import (
 	"time"
 )
 
-// ... (تمام بخش‌های ثابت مثل timeout, maxWorkers, GeoIPResponse, fixedText, protocols, links, dirLinks بدون تغییر باقی می‌مانند)
 const (
 	timeout         = 20 * time.Second
 	maxWorkers      = 20
@@ -27,6 +26,7 @@ type GeoIPResponse struct {
 	CountryCode string `json:"countryCode"`
 	Status      string `json:"status"`
 }
+
 // یک کش برای ذخیره پرچم کشورها بر اساس IP تا درخواست‌های تکراری ارسال نشود
 var ipToFlagCache = sync.Map{}
 
@@ -38,17 +38,13 @@ var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+Yjv
 `
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
-
 var links = []string{"https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt", "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray", "https://raw.githubusercontent.com/ts-sf/fly/main/v2", "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt", "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt", "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link", "https://shadowmere.xyz/api/b64sub/", "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"}
-
 var dirLinks = []string{"https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix", "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt", "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html", "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy", "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt", "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt", "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime", "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt", "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt", "https://raw.githubusercontent.com/peweza/SUB-PUBLIC/refs/heads/main/PewezaVPN", "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt", "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt", "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt"}
 
 type Result struct {
 	Content  string
 	IsBase64 bool
 }
-
-// =================== START: کد اصلاح شده برای عیب‌یابی ===================
 
 func countryCodeToFlag(code string) string {
 	if len(code) != 2 {
@@ -65,7 +61,7 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 	if ip == nil {
 		ips, err := net.LookupIP(address)
 		if err != nil || len(ips) == 0 {
-			return "", fmt.Errorf("DNS lookup failed for %s", address) // بازگرداندن خطا
+			return "", fmt.Errorf("DNS lookup failed for %s", address)
 		}
 		ip = ips[0]
 	}
@@ -81,7 +77,7 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 
 	resp, err := client.Do(req)
 	if err != nil {
-		return "", fmt.Errorf("API call to ip-api.com failed: %v", err) // بازگرداندن خطا
+		return "", fmt.Errorf("API call failed: %v", err)
 	}
 	defer resp.Body.Close()
 
@@ -92,13 +88,32 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 
 	var geoInfo GeoIPResponse
 	if err := json.Unmarshal(body, &geoInfo); err != nil || geoInfo.Status != "success" {
-		return "", fmt.Errorf("failed to parse GeoIP response or status not success for %s", address) // بازگرداندن خطا
+		return "", fmt.Errorf("failed to parse GeoIP response for %s", address)
 	}
-
 	return countryCodeToFlag(geoInfo.CountryCode), nil
 }
 
-// renameConfig کانفیگ‌های VLESS/VMess, Trojan و SS را تغییر نام می‌دهد
+func buildNewLink(protocol, mainPart, flag string) string {
+	newName := fmt.Sprintf("hamedp71-%s", flag)
+	if protocol == "vless" || protocol == "vmess" {
+		decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
+		if err != nil {
+			decodedBytes, _ = base64.StdEncoding.DecodeString(mainPart)
+		}
+		if decodedBytes != nil {
+			var configData map[string]interface{}
+			if json.Unmarshal(decodedBytes, &configData) == nil {
+				configData["ps"] = newName
+				if modifiedJSON, err := json.Marshal(configData); err == nil {
+					newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
+					return fmt.Sprintf("%s://%s", protocol, newEncodedData)
+				}
+			}
+		}
+	}
+	return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
+}
+
 func renameConfig(configLink string, client *http.Client) (string, error) {
 	parts := strings.SplitN(configLink, "://", 2)
 	if len(parts) != 2 {
@@ -106,9 +121,7 @@ func renameConfig(configLink string, client *http.Client) (string, error) {
 	}
 	protocol := parts[0]
 	mainPart := strings.SplitN(parts[1], "#", 2)[0]
-	
 	var address string
-
 	switch protocol {
 	case "vless", "vmess":
 		decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
@@ -118,84 +131,39 @@ func renameConfig(configLink string, client *http.Client) (string, error) {
 				return configLink, fmt.Errorf("base64 decoding failed")
 			}
 		}
-
 		var configData map[string]interface{}
 		if err := json.Unmarshal(decodedBytes, &configData); err != nil {
 			return configLink, fmt.Errorf("not a JSON-based config")
 		}
-
 		addr, ok := configData["add"].(string)
 		if !ok || addr == "" {
-			return configLink, fmt.Errorf("address field ('add') not found")
+			return configLink, fmt.Errorf("address field not found")
 		}
 		address = addr
-
 	case "trojan", "ss":
-		// ساختار: protocol://credentials@address:port
 		atParts := strings.SplitN(mainPart, "@", 2)
 		if len(atParts) != 2 {
 			return configLink, fmt.Errorf("invalid %s format", protocol)
 		}
 		addrPort := atParts[1]
 		address = strings.SplitN(addrPort, ":", 2)[0]
-
 	default:
-		// پروتکل‌های دیگر مثل ssr, tuic پشتیبانی نمی‌شوند
 		return configLink, fmt.Errorf("unsupported protocol for renaming: %s", protocol)
 	}
 
-	// حالا که آدرس را داریم، پرچم را می‌گیریم (با استفاده از کش)
 	if flag, ok := ipToFlagCache.Load(address); ok {
-		// اگر در کش بود، از همان استفاده کن
 		return buildNewLink(protocol, mainPart, flag.(string)), nil
 	}
 
-	// اگر در کش نبود، از شبکه بگیر
 	flag, err := getCountryFlag(address, client)
 	if err != nil {
 		return configLink, fmt.Errorf("could not get flag for %s: %v", address, err)
 	}
-	ipToFlagCache.Store(address, flag) // نتیجه را در کش ذخیره کن
+	ipToFlagCache.Store(address, flag)
 	return buildNewLink(protocol, mainPart, flag), nil
 }
 
-// تابع کمکی برای ساخت لینک نهایی
-func buildNewLink(protocol, mainPart, flag string) string {
-	newName := fmt.Sprintf("hamedp71-%s", flag)
-	// برای VLESS/VMess، باید JSON را ویرایش کنیم که پیچیده است.
-	// برای سادگی، فعلاً فقط نام را با # اضافه می‌کنیم که در اکثر کلاینت‌ها کار می‌کند.
-	return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
-}
-// buildNewLink یک تابع کمکی برای ساخت لینک نهایی با نام جدید است.
-// این تابع برای جلوگیری از تکرار کد استفاده می‌شود.
-func buildNewLink(protocol, mainPart, flag string) string {
-    newName := fmt.Sprintf("hamedp71-%s", flag)
-
-    // برای پروتکل‌های مبتنی بر JSON، باید JSON را ویرایش کنیم.
-    if protocol == "vless" || protocol == "vmess" {
-        decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
-        if err != nil {
-            decodedBytes, _ = base64.StdEncoding.DecodeString(mainPart)
-        }
-
-        if decodedBytes != nil {
-            var configData map[string]interface{}
-            if json.Unmarshal(decodedBytes, &configData) == nil {
-                configData["ps"] = newName
-                if modifiedJSON, err := json.Marshal(configData); err == nil {
-                    newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
-                    return fmt.Sprintf("%s://%s", protocol, newEncodedData)
-                }
-            }
-        }
-    }
-
-    // برای پروتکل‌های دیگر (Trojan, SS) یا در صورت خطا، نام را با # اضافه می‌کنیم.
-    return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
-}
-
 func main() {
-	// ... (بخش اولیه main مثل قبل) ...
 	fmt.Println("Starting V2Ray config aggregator...")
 	base64Folder, err := ensureDirectoriesExist()
 	if err != nil {
@@ -214,13 +182,12 @@ func main() {
 	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
 	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
 
-	// =================== START: بخش تغییر یافته main برای لاگ‌گیری ===================
 	fmt.Println("Renaming configurations and adding country flags...")
 	var wg sync.WaitGroup
 	renamedChan := make(chan string, len(filteredConfigs))
 	semaphore := make(chan struct{}, maxWorkers)
 	var successCount, failCount int32
-	var mu sync.Mutex // برای جلوگیری از چاپ همزمان و درهم
+	var mu sync.Mutex
 
 	for _, config := range filteredConfigs {
 		wg.Add(1)
@@ -228,15 +195,12 @@ func main() {
 			defer wg.Done()
 			semaphore <- struct{}{}
 			defer func() { <-semaphore }()
-
 			newName, err := renameConfig(c, client)
 			if err != nil {
-				// اگر تغییر نام شکست خورد، دلیلش را چاپ کن
 				mu.Lock()
-				//fmt.Printf("[FAIL] Config: %.30s... Reason: %v\n", c, err)
 				failCount++
 				mu.Unlock()
-				renamedChan <- c // از کانفیگ اصلی استفاده کن
+				renamedChan <- c
 			} else {
 				mu.Lock()
 				successCount++
@@ -245,11 +209,9 @@ func main() {
 			}
 		}(config)
 	}
-
 	wg.Wait()
 	close(renamedChan)
 
-	// چاپ گزارش نهایی
 	fmt.Printf("\n--- Renaming Summary ---\n")
 	fmt.Printf("Successful renames: %d\n", successCount)
 	fmt.Printf("Failed renames:     %d\n", failCount)
@@ -259,7 +221,6 @@ func main() {
 	for renamed := range renamedChan {
 		renamedConfigs = append(renamedConfigs, renamed)
 	}
-	// =================== END: بخش تغییر یافته main برای لاگ‌گیری ===================
 
 	cleanExistingFiles(base64Folder)
 	mainOutputFile := "All_Configs_Sub.txt"
@@ -275,11 +236,9 @@ func main() {
 		return
 	}
 	fmt.Println("Configuration aggregation completed successfully!")
-	// sortConfigs() // اگر این تابع در فایل دیگری است، آن را فعال کنید
+	// sortConfigs() // Assuming this function exists elsewhere
 }
 
-// ... (تمام توابع دیگر مثل ensureDirectoriesExist, fetchAllConfigs و ... بدون تغییر باقی می‌مانند)
-// ... (Please include all other functions from your previous code here)
 func ensureDirectoriesExist() (string, error) {
 	base64Folder := "Base64"
 	if err := os.MkdirAll(base64Folder, 0755); err != nil {
@@ -287,12 +246,11 @@ func ensureDirectoriesExist() (string, error) {
 	}
 	return base64Folder, nil
 }
+
 func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []string {
 	var wg sync.WaitGroup
 	resultChan := make(chan Result, len(base64Links)+len(textLinks))
 	semaphore := make(chan struct{}, maxWorkers)
-
-	// Fetch base64-encoded links
 	for _, link := range base64Links {
 		wg.Add(1)
 		go func(url string) {
@@ -305,8 +263,6 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 			}
 		}(link)
 	}
-
-	// Fetch text links
 	for _, link := range textLinks {
 		wg.Add(1)
 		go func(url string) {
@@ -315,17 +271,14 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 			defer func() { <-semaphore }()
 			content := fetchText(client, url)
 			if content != "" {
-				// این خط اصلاح شد: فاصله اضافی حذف شد
 				resultChan <- Result{Content: content, IsBase64: false}
 			}
 		}(link)
 	}
-
 	go func() {
 		wg.Wait()
 		close(resultChan)
 	}()
-
 	var allConfigs []string
 	for result := range resultChan {
 		lines := strings.Split(strings.TrimSpace(result.Content), "\n")
@@ -333,6 +286,7 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 	}
 	return allConfigs
 }
+
 func fetchAndDecodeBase64(client *http.Client, url string) string {
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
@@ -358,6 +312,7 @@ func fetchAndDecodeBase64(client *http.Client, url string) string {
 	}
 	return decoded
 }
+
 func fetchText(client *http.Client, url string) string {
 	ctx, cancel := context.WithTimeout(context.Background(), timeout)
 	defer cancel()
@@ -379,6 +334,7 @@ func fetchText(client *http.Client, url string) string {
 	}
 	return string(body)
 }
+
 func decodeBase64(encoded []byte) (string, error) {
 	encodedStr := string(encoded)
 	if len(encodedStr)%4 != 0 {
@@ -390,6 +346,7 @@ func decodeBase64(encoded []byte) (string, error) {
 	}
 	return string(decoded), nil
 }
+
 func filterForProtocols(data []string, protocols []string) []string {
 	var filtered []string
 	seen := make(map[string]bool)
@@ -411,6 +368,7 @@ func filterForProtocols(data []string, protocols []string) []string {
 	}
 	return filtered
 }
+
 func cleanExistingFiles(base64Folder string) {
 	os.Remove("All_Configs_Sub.txt")
 	os.Remove("All_Configs_base64_Sub.txt")
@@ -419,6 +377,7 @@ func cleanExistingFiles(base64Folder string) {
 		os.Remove(filepath.Join(base64Folder, fmt.Sprintf("Sub%d_base64.txt", i)))
 	}
 }
+
 func writeMainConfigFile(filename string, configs []string) error {
 	file, err := os.Create(filename)
 	if err != nil {
@@ -437,6 +396,7 @@ func writeMainConfigFile(filename string, configs []string) error {
 	}
 	return nil
 }
+
 func splitIntoFiles(base64Folder string, configs []string) error {
 	numFiles := (len(configs) + maxLinesPerFile - 1) / maxLinesPerFile
 	reversedConfigs := make([]string, len(configs))
@@ -473,6 +433,7 @@ func splitIntoFiles(base64Folder string, configs []string) error {
 	}
 	return nil
 }
+
 func writeSubFile(filename, header string, configs []string) error {
 	file, err := os.Create(filename)
 	if err != nil {
