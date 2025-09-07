@@ -27,7 +27,6 @@ type GeoIPResponse struct {
 	Status      string `json:"status"`
 }
 
-// یک کش برای ذخیره پرچم کشورها بر اساس IP تا درخواست‌های تکراری ارسال نشود
 var ipToFlagCache = sync.Map{}
 
 var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
@@ -44,6 +43,88 @@ var dirLinks = []string{"https://raw.githubusercontent.com/itsyebekhe/PSG/main/l
 type Result struct {
 	Content  string
 	IsBase64 bool
+}
+
+func main() {
+	fmt.Println("Starting V2Ray config aggregator...")
+	base64Folder, err := ensureDirectoriesExist()
+	if err != nil {
+		fmt.Printf("Error creating directories: %v\n", err)
+		return
+	}
+	client := &http.Client{
+		Timeout: timeout,
+		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
+	}
+	fmt.Println("Fetching configurations from sources...")
+	allConfigs := fetchAllConfigs(client, links, dirLinks)
+	fmt.Println("Filtering configurations and removing duplicates...")
+	originalCount := len(allConfigs)
+	filteredConfigs := filterForProtocols(allConfigs, protocols)
+	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
+	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
+
+	fmt.Println("Renaming configurations and adding country flags...")
+	var wg sync.WaitGroup
+	renamedChan := make(chan string, len(filteredConfigs))
+	semaphore := make(chan struct{}, maxWorkers)
+	var successCount, failCount int32
+	var mu sync.Mutex
+
+	for _, config := range filteredConfigs {
+		wg.Add(1)
+		go func(c string) {
+			defer wg.Done()
+			semaphore <- struct{}{}
+			defer func() { <-semaphore }()
+			newName, err := renameConfig(c, client)
+			if err != nil {
+				mu.Lock()
+				failCount++
+				mu.Unlock()
+				renamedChan <- c
+			} else {
+				mu.Lock()
+				successCount++
+				mu.Unlock()
+				renamedChan <- newName
+			}
+		}(config)
+	}
+	wg.Wait()
+	close(renamedChan)
+
+	fmt.Printf("\n--- Renaming Summary ---\n")
+	fmt.Printf("Successful renames: %d\n", successCount)
+	fmt.Printf("Failed renames:     %d\n", failCount)
+	fmt.Printf("------------------------\n\n")
+
+	var renamedConfigs []string
+	for renamed := range renamedChan {
+		renamedConfigs = append(renamedConfigs, renamed)
+	}
+
+	cleanExistingFiles(base64Folder)
+	mainOutputFile := "All_Configs_Sub.txt"
+	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error writing main config file: %v\n", err)
+		return
+	}
+	fmt.Println("Splitting into smaller files...")
+	err = splitIntoFiles(base64Folder, renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error splitting files: %v\n", err)
+		return
+	}
+	
+	fmt.Println("Splitting configurations by protocol...")
+	err = splitByProtocol(renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error splitting by protocol: %v\n", err)
+	}
+
+	fmt.Println("Configuration aggregation completed successfully!")
 }
 
 func countryCodeToFlag(code string) string {
@@ -163,33 +244,13 @@ func renameConfig(configLink string, client *http.Client) (string, error) {
 	return buildNewLink(protocol, mainPart, flag), nil
 }
 
-func main() {
-	// ... تمام کدهای قبلی تابع main تا قبل از پایان ...
-	
-	// START: بخش جدید برای دسته‌بندی بر اساس پروتکل
-	fmt.Println("Splitting configurations by protocol...")
-	err = splitByProtocol(renamedConfigs)
-	if err != nil {
-		fmt.Printf("Error splitting by protocol: %v\n", err)
-	}
-	// END: بخش جدید
-
-	fmt.Println("Configuration aggregation completed successfully!")
-}
-
-// ======================================================================
-// START: تابع جدید برای دسته‌بندی بر اساس پروتکل
-// ======================================================================
 func splitByProtocol(configs []string) error {
 	protocolDir := "Splitted-By-Protocol"
 	if err := os.MkdirAll(protocolDir, 0755); err != nil {
 		return fmt.Errorf("could not create protocol directory: %v", err)
 	}
 
-	// یک map برای نگهداری کانفیگ‌ها به تفکیک پروتکل
 	protocolConfigs := make(map[string][]string)
-
-	// دسته‌بندی کانفیگ‌ها
 	for _, config := range configs {
 		parts := strings.SplitN(config, "://", 2)
 		if len(parts) > 1 {
@@ -198,7 +259,6 @@ func splitByProtocol(configs []string) error {
 		}
 	}
 
-	// نوشتن فایل‌ها
 	for protocol, configsInProtocol := range protocolConfigs {
 		filename := filepath.Join(protocolDir, fmt.Sprintf("%s.txt", protocol))
 		content := strings.Join(configsInProtocol, "\n")
@@ -209,77 +269,7 @@ func splitByProtocol(configs []string) error {
 			fmt.Printf("  - Wrote %d configs to %s\n", len(configsInProtocol), filename)
 		}
 	}
-
 	return nil
-}
-
-	client := &http.Client{
-		Timeout: timeout,
-		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
-	}
-	fmt.Println("Fetching configurations from sources...")
-	allConfigs := fetchAllConfigs(client, links, dirLinks)
-	fmt.Println("Filtering configurations and removing duplicates...")
-	originalCount := len(allConfigs)
-	filteredConfigs := filterForProtocols(allConfigs, protocols)
-	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
-	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
-
-	fmt.Println("Renaming configurations and adding country flags...")
-	var wg sync.WaitGroup
-	renamedChan := make(chan string, len(filteredConfigs))
-	semaphore := make(chan struct{}, maxWorkers)
-	var successCount, failCount int32
-	var mu sync.Mutex
-
-	for _, config := range filteredConfigs {
-		wg.Add(1)
-		go func(c string) {
-			defer wg.Done()
-			semaphore <- struct{}{}
-			defer func() { <-semaphore }()
-			newName, err := renameConfig(c, client)
-			if err != nil {
-				mu.Lock()
-				failCount++
-				mu.Unlock()
-				renamedChan <- c
-			} else {
-				mu.Lock()
-				successCount++
-				mu.Unlock()
-				renamedChan <- newName
-			}
-		}(config)
-	}
-	wg.Wait()
-	close(renamedChan)
-
-	fmt.Printf("\n--- Renaming Summary ---\n")
-	fmt.Printf("Successful renames: %d\n", successCount)
-	fmt.Printf("Failed renames:     %d\n", failCount)
-	fmt.Printf("------------------------\n\n")
-
-	var renamedConfigs []string
-	for renamed := range renamedChan {
-		renamedConfigs = append(renamedConfigs, renamed)
-	}
-
-	cleanExistingFiles(base64Folder)
-	mainOutputFile := "All_Configs_Sub.txt"
-	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
-	if err != nil {
-		fmt.Printf("Error writing main config file: %v\n", err)
-		return
-	}
-	fmt.Println("Splitting into smaller files...")
-	err = splitIntoFiles(base64Folder, renamedConfigs)
-	if err != nil {
-		fmt.Printf("Error splitting files: %v\n", err)
-		return
-	}
-	fmt.Println("Configuration aggregation completed successfully!")
-	// sortConfigs() // Assuming this function exists elsewhere
 }
 
 func ensureDirectoriesExist() (string, error) {
@@ -415,6 +405,7 @@ func filterForProtocols(data []string, protocols []string) []string {
 func cleanExistingFiles(base64Folder string) {
 	os.Remove("All_Configs_Sub.txt")
 	os.Remove("All_Configs_base64_Sub.txt")
+	os.RemoveAll("Splitted-By-Protocol") // پاک کردن پوشه قدیمی
 	for i := 0; i < 20; i++ {
 		os.Remove(fmt.Sprintf("Sub%d.txt", i))
 		os.Remove(filepath.Join(base64Folder, fmt.Sprintf("Sub%d_base64.txt", i)))
