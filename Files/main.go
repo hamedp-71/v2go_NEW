@@ -27,6 +27,8 @@ type GeoIPResponse struct {
 	CountryCode string `json:"countryCode"`
 	Status      string `json:"status"`
 }
+// یک کش برای ذخیره پرچم کشورها بر اساس IP تا درخواست‌های تکراری ارسال نشود
+var ipToFlagCache = sync.Map{}
 
 var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 #//profile-update-interval: 1
@@ -96,46 +98,101 @@ func getCountryFlag(address string, client *http.Client) (string, error) {
 	return countryCodeToFlag(geoInfo.CountryCode), nil
 }
 
+// renameConfig کانفیگ‌های VLESS/VMess, Trojan و SS را تغییر نام می‌دهد
 func renameConfig(configLink string, client *http.Client) (string, error) {
 	parts := strings.SplitN(configLink, "://", 2)
 	if len(parts) != 2 {
 		return configLink, fmt.Errorf("invalid format")
 	}
 	protocol := parts[0]
-	encodedData := strings.SplitN(parts[1], "#", 2)[0]
+	mainPart := strings.SplitN(parts[1], "#", 2)[0]
+	
+	var address string
 
-	decodedBytes, err := base64.RawURLEncoding.DecodeString(encodedData)
-	if err != nil {
-		decodedBytes, err = base64.StdEncoding.DecodeString(encodedData)
+	switch protocol {
+	case "vless", "vmess":
+		decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
 		if err != nil {
-			return configLink, fmt.Errorf("base64 decoding failed")
+			decodedBytes, err = base64.StdEncoding.DecodeString(mainPart)
+			if err != nil {
+				return configLink, fmt.Errorf("base64 decoding failed")
+			}
 		}
+
+		var configData map[string]interface{}
+		if err := json.Unmarshal(decodedBytes, &configData); err != nil {
+			return configLink, fmt.Errorf("not a JSON-based config")
+		}
+
+		addr, ok := configData["add"].(string)
+		if !ok || addr == "" {
+			return configLink, fmt.Errorf("address field ('add') not found")
+		}
+		address = addr
+
+	case "trojan", "ss":
+		// ساختار: protocol://credentials@address:port
+		atParts := strings.SplitN(mainPart, "@", 2)
+		if len(atParts) != 2 {
+			return configLink, fmt.Errorf("invalid %s format", protocol)
+		}
+		addrPort := atParts[1]
+		address = strings.SplitN(addrPort, ":", 2)[0]
+
+	default:
+		// پروتکل‌های دیگر مثل ssr, tuic پشتیبانی نمی‌شوند
+		return configLink, fmt.Errorf("unsupported protocol for renaming: %s", protocol)
 	}
 
-	var configData map[string]interface{}
-	if err := json.Unmarshal(decodedBytes, &configData); err != nil {
-		// این کانفیگ از نوع JSON نیست (مثلاً Trojan)
-		return configLink, fmt.Errorf("not a JSON-based config (e.g., VLESS/VMess)")
+	// حالا که آدرس را داریم، پرچم را می‌گیریم (با استفاده از کش)
+	if flag, ok := ipToFlagCache.Load(address); ok {
+		// اگر در کش بود، از همان استفاده کن
+		return buildNewLink(protocol, mainPart, flag.(string)), nil
 	}
 
-	address, ok := configData["add"].(string)
-	if !ok || address == "" {
-		return configLink, fmt.Errorf("address field ('add') not found in JSON")
-	}
-
+	// اگر در کش نبود، از شبکه بگیر
 	flag, err := getCountryFlag(address, client)
 	if err != nil {
-		// خطای شبکه در گرفتن پرچم
-		return configLink, fmt.Errorf("could not get flag for address %s: %v", address, err)
+		return configLink, fmt.Errorf("could not get flag for %s: %v", address, err)
 	}
-
-	configData["ps"] = fmt.Sprintf("hamedp71-%s", flag)
-	modifiedJSON, _ := json.Marshal(configData)
-	newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
-	return fmt.Sprintf("%s://%s", protocol, newEncodedData), nil
+	ipToFlagCache.Store(address, flag) // نتیجه را در کش ذخیره کن
+	return buildNewLink(protocol, mainPart, flag), nil
 }
 
-// =================== END: کد اصلاح شده برای عیب‌یابی ===================
+// تابع کمکی برای ساخت لینک نهایی
+func buildNewLink(protocol, mainPart, flag string) string {
+	newName := fmt.Sprintf("hamedp71-%s", flag)
+	// برای VLESS/VMess، باید JSON را ویرایش کنیم که پیچیده است.
+	// برای سادگی، فعلاً فقط نام را با # اضافه می‌کنیم که در اکثر کلاینت‌ها کار می‌کند.
+	return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
+}
+// buildNewLink یک تابع کمکی برای ساخت لینک نهایی با نام جدید است.
+// این تابع برای جلوگیری از تکرار کد استفاده می‌شود.
+func buildNewLink(protocol, mainPart, flag string) string {
+    newName := fmt.Sprintf("hamedp71-%s", flag)
+
+    // برای پروتکل‌های مبتنی بر JSON، باید JSON را ویرایش کنیم.
+    if protocol == "vless" || protocol == "vmess" {
+        decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
+        if err != nil {
+            decodedBytes, _ = base64.StdEncoding.DecodeString(mainPart)
+        }
+
+        if decodedBytes != nil {
+            var configData map[string]interface{}
+            if json.Unmarshal(decodedBytes, &configData) == nil {
+                configData["ps"] = newName
+                if modifiedJSON, err := json.Marshal(configData); err == nil {
+                    newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
+                    return fmt.Sprintf("%s://%s", protocol, newEncodedData)
+                }
+            }
+        }
+    }
+
+    // برای پروتکل‌های دیگر (Trojan, SS) یا در صورت خطا، نام را با # اضافه می‌کنیم.
+    return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
+}
 
 func main() {
 	// ... (بخش اولیه main مثل قبل) ...
