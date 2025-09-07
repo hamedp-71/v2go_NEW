@@ -164,12 +164,55 @@ func renameConfig(configLink string, client *http.Client) (string, error) {
 }
 
 func main() {
-	fmt.Println("Starting V2Ray config aggregator...")
-	base64Folder, err := ensureDirectoriesExist()
+	// ... تمام کدهای قبلی تابع main تا قبل از پایان ...
+	
+	// START: بخش جدید برای دسته‌بندی بر اساس پروتکل
+	fmt.Println("Splitting configurations by protocol...")
+	err = splitByProtocol(renamedConfigs)
 	if err != nil {
-		fmt.Printf("Error creating directories: %v\n", err)
-		return
+		fmt.Printf("Error splitting by protocol: %v\n", err)
 	}
+	// END: بخش جدید
+
+	fmt.Println("Configuration aggregation completed successfully!")
+}
+
+// ======================================================================
+// START: تابع جدید برای دسته‌بندی بر اساس پروتکل
+// ======================================================================
+func splitByProtocol(configs []string) error {
+	protocolDir := "Splitted-By-Protocol"
+	if err := os.MkdirAll(protocolDir, 0755); err != nil {
+		return fmt.Errorf("could not create protocol directory: %v", err)
+	}
+
+	// یک map برای نگهداری کانفیگ‌ها به تفکیک پروتکل
+	protocolConfigs := make(map[string][]string)
+
+	// دسته‌بندی کانفیگ‌ها
+	for _, config := range configs {
+		parts := strings.SplitN(config, "://", 2)
+		if len(parts) > 1 {
+			protocol := parts[0]
+			protocolConfigs[protocol] = append(protocolConfigs[protocol], config)
+		}
+	}
+
+	// نوشتن فایل‌ها
+	for protocol, configsInProtocol := range protocolConfigs {
+		filename := filepath.Join(protocolDir, fmt.Sprintf("%s.txt", protocol))
+		content := strings.Join(configsInProtocol, "\n")
+		
+		if err := os.WriteFile(filename, []byte(content), 0644); err != nil {
+			fmt.Printf("Warning: could not write to file %s: %v\n", filename, err)
+		} else {
+			fmt.Printf("  - Wrote %d configs to %s\n", len(configsInProtocol), filename)
+		}
+	}
+
+	return nil
+}
+
 	client := &http.Client{
 		Timeout: timeout,
 		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
