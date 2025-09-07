@@ -68,6 +68,117 @@ type Result struct {
 	IsBase64 bool
 }
 
+// ===================================================================================
+// START: کدهای جدید برای تغییر نام و افزودن پرچم
+// ===================================================================================
+
+// countryCodeToFlag converts a two-letter country code to a flag emoji.
+func countryCodeToFlag(code string) string {
+	if len(code) != 2 {
+		return "❓"
+	}
+	code = strings.ToUpper(code)
+	return string(rune(0x1F1E6+code[0]-'A')) + string(rune(0x1F1E6+code[1]-'A'))
+}
+
+// getCountryFlag fetches the country flag for a given server address (IP or domain).
+func getCountryFlag(address string, client *http.Client) string {
+	// First, check if it's a domain or IP
+	ip := net.ParseIP(address)
+	if ip == nil {
+		// It's a domain, resolve it
+		ips, err := net.LookupIP(address)
+		if err != nil || len(ips) == 0 {
+			return "❓" // Cannot resolve domain
+		}
+		ip = ips[0]
+	}
+
+	// Use ip-api.com to get country code
+	apiURL := fmt.Sprintf("http://ip-api.com/json/%s?fields=status,countryCode", ip.String())
+	req, err := http.NewRequest("GET", apiURL, nil)
+	if err != nil {
+		return "❓"
+	}
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	req = req.WithContext(ctx)
+
+	resp, err := client.Do(req)
+	if err != nil {
+		return "❓"
+	}
+	defer resp.Body.Close()
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return "❓"
+	}
+
+	var geoInfo GeoIPResponse
+	if err := json.Unmarshal(body, &geoInfo); err != nil || geoInfo.Status != "success" {
+		return "❓"
+	}
+
+	return countryCodeToFlag(geoInfo.CountryCode)
+}
+
+// renameConfig decodes a V2Ray config, changes its name ("ps"), and re-encodes it.
+func renameConfig(configLink string, client *http.Client) (string, error) {
+	parts := strings.SplitN(configLink, "://", 2)
+	if len(parts) != 2 {
+		return configLink, fmt.Errorf("invalid config link format")
+	}
+	protocol := parts[0]
+	encodedData := parts[1]
+
+	// Handle potential hash (#) in the link
+	if strings.Contains(encodedData, "#") {
+		encodedData = strings.SplitN(encodedData, "#", 2)[0]
+	}
+
+	decodedBytes, err := base64.RawURLEncoding.DecodeString(encodedData)
+	if err != nil {
+		// Try standard decoding as a fallback
+		decodedBytes, err = base64.StdEncoding.DecodeString(encodedData)
+		if err != nil {
+			return configLink, fmt.Errorf("base64 decoding failed")
+		}
+	}
+
+	var configData map[string]interface{}
+	if err := json.Unmarshal(decodedBytes, &configData); err != nil {
+		// If it's not JSON (like Trojan links), just return the original
+		return configLink, nil
+	}
+
+	// Extract server address ("add")
+	address, ok := configData["add"].(string)
+	if !ok || address == "" {
+		return configLink, fmt.Errorf("address field not found")
+	}
+
+	// Get the flag
+	flag := getCountryFlag(address, client)
+
+	// Set the new name
+	configData["ps"] = fmt.Sprintf("hamedp71-%s", flag)
+
+	modifiedJSON, err := json.Marshal(configData)
+	if err != nil {
+		return configLink, fmt.Errorf("JSON marshaling failed")
+	}
+
+	newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
+	return fmt.Sprintf("%s://%s", protocol, newEncodedData), nil
+}
+
+// ===================================================================================
+// END: کدهای جدید
+// ===================================================================================
+
+
 func main() {
 	fmt.Println("Starting V2Ray config aggregator...")
 
@@ -100,20 +211,57 @@ func main() {
 	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
 	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
 
+    // ===================================================================================
+	// START: بخش جدید برای تغییر نام کانفیگ‌ها
+	// ===================================================================================
+	fmt.Println("Renaming configurations and adding country flags...")
+	var wg sync.WaitGroup
+	renamedChan := make(chan string, len(filteredConfigs))
+	semaphore := make(chan struct{}, maxWorkers)
+
+	for _, config := range filteredConfigs {
+		wg.Add(1)
+		go func(c string) {
+			defer wg.Done()
+			semaphore <- struct{}{}
+			defer func() { <-semaphore }()
+
+			newName, err := renameConfig(c, client)
+			if err != nil {
+				// If renaming fails, use the original config
+				renamedChan <- c
+			} else {
+				renamedChan <- newName
+			}
+		}(config)
+	}
+
+	wg.Wait()
+	close(renamedChan)
+
+	var renamedConfigs []string
+	for renamed := range renamedChan {
+		renamedConfigs = append(renamedConfigs, renamed)
+	}
+	fmt.Printf("Finished renaming %d configurations.\n", len(renamedConfigs))
+	// ===================================================================================
+	// END: بخش تغییر نام
+	// ===================================================================================
+	
 	// Clean existing files
 	cleanExistingFiles(base64Folder)
 
-	// Write main config file (in current directory)
+	// حالا از کانفیگ‌های تغییرنام‌یافته استفاده می‌کنیم
 	mainOutputFile := "All_Configs_Sub.txt"
-	err = writeMainConfigFile(mainOutputFile, filteredConfigs)
+	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
 	if err != nil {
 		fmt.Printf("Error writing main config file: %v\n", err)
 		return
 	}
 
-	// Split into smaller files
 	fmt.Println("Splitting into smaller files...")
-	err = splitIntoFiles(base64Folder, filteredConfigs)
+	// اینجا هم از کانفیگ‌های تغییرنام‌یافته استفاده می‌کنیم
+	err = splitIntoFiles(base64Folder, renamedConfigs)
 	if err != nil {
 		fmt.Printf("Error splitting files: %v\n", err)
 		return
@@ -121,7 +269,6 @@ func main() {
 
 	fmt.Println("Configuration aggregation completed successfully!")
 
-	// Now sort configurations by protocol
 	sortConfigs()
 }
 
