@@ -28,6 +28,11 @@ var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+Yjv
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
 `
+// ساختار پاسخ از سرویس GeoIP برای دیکد کردن جیسون
+type GeoIPResponse struct {
+	CountryCode string `json:"countryCode"`
+	Status      string `json:"status"`
+}
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
 
@@ -75,12 +80,18 @@ type Result struct {
 // ===================================================================================
 
 // countryCodeToFlag converts a two-letter country code to a flag emoji.
+// countryCodeToFlag یک کد دو حرفی کشور را به اموجی پرچم تبدیل می‌کند.
 func countryCodeToFlag(code string) string {
 	if len(code) != 2 {
 		return "❓"
 	}
 	code = strings.ToUpper(code)
-	return string(rune(0x1F1E6+code[0]-'A')) + string(rune(0x1F1E6+code[1]-'A'))
+	
+	// تبدیل هر حرف به یک rune (کاراکتر یونیکد)
+	var r1 rune = 0x1F1E6 + rune(code[0]) - 'A'
+	var r2 rune = 0x1F1E6 + rune(code[1]) - 'A'
+
+	return string(r1) + string(r2)
 }
 
 // getCountryFlag fetches the country flag for a given server address (IP or domain).
