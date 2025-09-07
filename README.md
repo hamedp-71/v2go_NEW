@@ -63,7 +63,8 @@ v2go/
 │   ├── vmess.txt  
 │   ├── ss.txt
 │   ├── ssr.txt
-│   └── trojan.txt
+│   ├── trojan.txt
+│   └── hy2.txt
 └── Sub1.txt - Sub14.txt            # Split into 500-config chunks
 ```
 
@@ -85,36 +86,36 @@ https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/All_Configs_base64_Sub
 
 **hy2:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/hy2.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt
 ```
 
 **VLESS:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt
 ```
 
 **VMess:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt
 ```
 
 **Shadowsocks:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt
 ```
 
 **ShadowsocksR:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt
 ```
 
 **Trojan:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt
 ```
 **tuic:**
 ```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/heads/main/Splitted-By-Protocol/tuic.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt
 ```
 
 ### Split Subscriptions (500 configs each)
