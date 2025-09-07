@@ -173,26 +173,6 @@ https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub9.txt
 https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub10.txt
 ```
 
-**Config List 11:**
-```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub11.txt
-```
-
-**Config List 12:**
-```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub12.txt
-```
-
-**Config List 13:**
-```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub13.txt
-```
-
-**Config List 14:**
-```
-https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Sub14.txt
-```
-
 </details>
 
 ## 📱 Compatible V2Ray Clients
