@@ -1,17 +1,19 @@
 package main
 
 import (
-	"bufio"
-	"context"
-	"encoding/base64"
-	"fmt"
-	"io"
-	"net/http"
-	"os"
-	"path/filepath"
-	"strings"
-	"sync"
-	"time"
+    "bufio"
+    "context"
+    "encoding/base64"
+    "encoding/json" // <--- این باید اضافه شود
+    "fmt"
+    "io"
+    "net"           // <--- این باید اضافه شود
+    "net/http"
+    "os"
+    "path/filepath"
+    "strings"
+    "sync"
+    "time"
 )
 
 const (
