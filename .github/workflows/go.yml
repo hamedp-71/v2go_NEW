@@ -1,0 +1,70 @@
+# آدرس فایل: .github/workflows/update-v2ray.yml
+
+name: Update V2Ray Configs
+
+# این بخش مشخص می‌کند که گردش کار چه زمانی اجرا شود
+on:
+  # 1. هر بار که کدی به شاخه main پوش شود (برای اجرای فوری بعد از تغییرات)
+  push:
+    branches:
+      - main
+      
+  # 2. به صورت زمان‌بندی شده (هر 20 دقیقه یک بار)
+  schedule:
+    - cron: "*/20 * * * *"
+
+  # 3. قابلیت اجرای دستی از طریق تب Actions در گیت‌هاب
+  workflow_dispatch:
+
+permissions:
+  contents: write # فقط به دسترسی نوشتن نیاز دارد
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.21'
+        cache: true
+
+    - name: Build and run Go aggregator
+      run: |
+        cd Files
+        echo "Building Go application..."
+        go mod tidy
+        go build -ldflags="-s -w" -o ../aggregator *.go
+        cd ..
+        echo "Starting config aggregation, sorting, and renaming..."
+        ./aggregator
+        echo "Config processing completed successfully!"
+      
+    - name: Verify output files
+      run: |
+        echo "Verifying generated files..."
+        ls -la *.txt 2>/dev/null || echo "No .txt files found in root"
+        
+    - name: Create status summary
+      run: |
+        echo "# V2Ray Config Update Summary" > UPDATE_SUMMARY.md
+        echo "Generated on: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> UPDATE_SUMMARY.md
+        
+        total=0
+        if [ -f "All_Configs_Sub.txt" ]; then
+          total=$(wc -l < "All_Configs_Sub.txt")
+        fi
+        echo "- Total configurations: $total" >> UPDATE_SUMMARY.md
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: "GitHub Actions Bot"
+        author_email: "actions-bot@github.com"
+        message: "🚀 Fresh V2Ray Configs Update"
+        add: "."
+        default_author: github_actor
