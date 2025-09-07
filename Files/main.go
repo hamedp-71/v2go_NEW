@@ -234,6 +234,8 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 	var wg sync.WaitGroup
 	resultChan := make(chan Result, len(base64Links)+len(textLinks))
 	semaphore := make(chan struct{}, maxWorkers)
+
+	// Fetch base64-encoded links
 	for _, link := range base64Links {
 		wg.Add(1)
 		go func(url string) {
@@ -246,6 +248,8 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 			}
 		}(link)
 	}
+
+	// Fetch text links
 	for _, link := range textLinks {
 		wg.Add(1)
 		go func(url string) {
@@ -254,14 +258,17 @@ func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []str
 			defer func() { <-semaphore }()
 			content := fetchText(client, url)
 			if content != "" {
-				resultChan <- Result{Content: content, IsBase-64: false}
+				// این خط اصلاح شد: فاصله اضافی حذف شد
+				resultChan <- Result{Content: content, IsBase64: false}
 			}
 		}(link)
 	}
+
 	go func() {
 		wg.Wait()
 		close(resultChan)
 	}()
+
 	var allConfigs []string
 	for result := range resultChan {
 		lines := strings.Split(strings.TrimSpace(result.Content), "\n")
