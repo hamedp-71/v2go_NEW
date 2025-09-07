@@ -20,10 +20,11 @@ const (
 	maxLinesPerFile = 500
 )
 
-var fixedText = `#profile-title: base64:8J+GkyBHaXRodWIgfCBEYW5pYWwgU2FtYWRpIPCfkI0=
-#profile-update-interval: 1
-#support-url: https://github.com/Danialsamadi/v2go
-#profile-web-page-url: https://github.com/Danialsamadi/v2go
+var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+#//profile-update-interval: 1
+#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+#support-url: https://github.com/hamedp-71/v2go_NEW
+#profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
 `
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
@@ -42,7 +43,7 @@ var links = []string{
 	"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
 	"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
 	"https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
-	"https://v2.alicivil.workers.dev",
+	"https://shadowmere.xyz/api/b64sub/",
 	"https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed",
 }
 
@@ -50,15 +51,14 @@ var dirLinks = []string{
 	"https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
 	"https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt",
 	"https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-	"https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+	"https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
 	"https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-	"https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+	"https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
+	"https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
+	"https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt",
 	"https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-	"https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
-	"https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
-	"https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
+	"https://raw.githubusercontent.com/peweza/SUB-PUBLIC/refs/heads/main/PewezaVPN",
 	"https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-	"https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
 	"https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
 	"https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt",
 }
@@ -339,10 +339,11 @@ func splitIntoFiles(base64Folder string, configs []string) error {
 		// Create custom header for this file
 		profileTitle := fmt.Sprintf("🆓 Git:DanialSamadi | Sub%d 🔥", i+1)
 		encodedTitle := base64.StdEncoding.EncodeToString([]byte(profileTitle))
-		customFixedText := fmt.Sprintf(`#profile-title: base64:%s
-#profile-update-interval: 1
-#support-url: https://github.com/Danialsamadi/v2go
-#profile-web-page-url: https://github.com/Danialsamadi/v2go
+		customFixedText := fmt.Sprintf(`#//profile-title: base64:Sub%d
+#//profile-update-interval: 1
+#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+#support-url: https://github.com/hamedp-71/v2go_NEW
+#profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
 `, encodedTitle)
 
 		// Calculate slice bounds (using reversed configs)
