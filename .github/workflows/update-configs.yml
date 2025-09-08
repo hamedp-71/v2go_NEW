@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/180 * * * *"  # Every 6 hours
+    - cron: "*/240 * * * *"  # Every 6 hours
   workflow_dispatch:  # Allow manual trigger
     
 jobs:
