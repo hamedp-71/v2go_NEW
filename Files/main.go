@@ -29,8 +29,8 @@ var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+Yjv
 `
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
-var links = []string{"https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray" , "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2" , "https://shadowmere.xyz/api/b64sub/" , "https://arcane.victoriacross.workers.dev/" , "https://harmony.victoriacross.workers.dev" , "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix"}
-var dirLinks = []string{"https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f" , "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt" , "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless" , "https://the3rf.com/sub.php" , "https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless" , "https://raw.githubusercontent.com/sahar-km/Freedom/refs/heads/main/-/-/Arm64/-/V8A.txt" , "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix" , "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html" , "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy" , "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt" , "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt" , "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime" , "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt" , "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Netherlands.txt" ,   "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H" , "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt" , "https://raw.githubusercontent.com/peweza/SUB-PUBLIC/refs/heads/main/PewezaVPN" , "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"}
+var links = []string{"https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray", "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2", "https://shadowmere.xyz/api/b64sub/", "https://arcane.victoriacross.workers.dev/", "https://harmony.victoriacross.workers.dev", "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix"}
+var dirLinks = []string{"https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f", "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt", "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless", "https://the3rf.com/sub.php", "https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless", "https://raw.githubusercontent.com/sahar-km/Freedom/refs/heads/main/-/-/Arm64/-/V8A.txt", "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix", "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html", "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy", "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt", "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt", "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime", "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt", "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Netherlands.txt", "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H", "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt", "https://raw.githubusercontent.com/peweza/SUB-PUBLIC/refs/heads/main/PewezaVPN", "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"}
 
 type Result struct {
 	Content  string
@@ -38,11 +38,36 @@ type Result struct {
 }
 
 func main() {
-// تغییر نام حذف شد. کانفیگ‌ها بدون تغییر استفاده می‌شوند.
+	fmt.Println("Starting V2Ray config aggregator...")
+	
+	// ایجاد پوشه‌ها
+	base64Folder, err := ensureDirectoriesExist()
+	if err != nil {
+		fmt.Printf("Error creating directories: %v\n", err)
+		return
+	}
+
+	client := &http.Client{
+		Timeout: timeout,
+		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
+	}
+
+	fmt.Println("Fetching configurations from sources...")
+	allConfigs := fetchAllConfigs(client, links, dirLinks)
+
+	fmt.Println("Filtering configurations and removing duplicates...")
+	originalCount := len(allConfigs)
+	filteredConfigs := filterForProtocols(allConfigs, protocols)
+	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
+	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
+
+	// === تغییر مهم: حذف کامل لاجیک تغییر نام ===
+	// فقط کانفیگ‌های فیلتر شده را به مرحله بعد منتقل می‌کنیم
 	renamedConfigs := filteredConfigs
+	fmt.Println("Skipping renaming process (keeping original names)...")
 
 	cleanExistingFiles(base64Folder)
-	
+
 	// نوشتن فایل اصلی
 	mainOutputFile := "All_Configs_Sub.txt"
 	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
@@ -52,9 +77,7 @@ func main() {
 	}
 	fmt.Printf("  - Successfully created %s\n", mainOutputFile)
 
-	// ======================================================================
-	// START: بخش جدید برای ساخت نسخه Base64
-	// ======================================================================
+	// ساخت نسخه Base64 فایل اصلی
 	content, err := os.ReadFile(mainOutputFile)
 	if err != nil {
 		fmt.Printf("Warning: could not read main config file to create base64 version: %v\n", err)
@@ -68,9 +91,6 @@ func main() {
 			fmt.Printf("  - Successfully created %s\n", base64OutputFile)
 		}
 	}
-	// ======================================================================
-	// END: بخش جدید
-	// ======================================================================
 
 	fmt.Println("Splitting into smaller files...")
 	err = splitIntoFiles(base64Folder, renamedConfigs)
@@ -78,7 +98,7 @@ func main() {
 		fmt.Printf("Error splitting files: %v\n", err)
 		return
 	}
-	
+
 	fmt.Println("Splitting configurations by protocol...")
 	err = splitByProtocol(renamedConfigs)
 	if err != nil {
@@ -86,117 +106,6 @@ func main() {
 	}
 
 	fmt.Println("Configuration aggregation completed successfully!")
-}
-
-func countryCodeToFlag(code string) string {
-	if len(code) != 2 {
-		return "❓"
-	}
-	code = strings.ToUpper(code)
-	var r1 rune = 0x1F1E6 + rune(code[0]) - 'A'
-	var r2 rune = 0x1F1E6 + rune(code[1]) - 'A'
-	return string(r1) + string(r2)
-}
-
-func getCountryFlag(address string, client *http.Client) (string, error) {
-	ip := net.ParseIP(address)
-	if ip == nil {
-		ips, err := net.LookupIP(address)
-		if err != nil || len(ips) == 0 {
-			return "", fmt.Errorf("DNS lookup failed for %s", address)
-		}
-		ip = ips[0]
-	}
-	apiURL := fmt.Sprintf("http://ip-api.com/json/%s?fields=status,countryCode", ip.String())
-	req, err := http.NewRequest("GET", apiURL, nil)
-	if err != nil {
-		return "", err
-	}
-	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
-	defer cancel()
-	req = req.WithContext(ctx)
-	resp, err := client.Do(req)
-	if err != nil {
-		return "", fmt.Errorf("API call failed: %v", err)
-	}
-	defer resp.Body.Close()
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return "", err
-	}
-	var geoInfo GeoIPResponse
-	if err := json.Unmarshal(body, &geoInfo); err != nil || geoInfo.Status != "success" {
-		return "", fmt.Errorf("failed to parse GeoIP response for %s", address)
-	}
-	return countryCodeToFlag(geoInfo.CountryCode), nil
-}
-
-func buildNewLink(protocol, mainPart, flag string) string {
-	newName := fmt.Sprintf("hamedp71-%s", flag)
-	if protocol == "vless" || protocol == "vmess" {
-		decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
-		if err != nil {
-			decodedBytes, _ = base64.StdEncoding.DecodeString(mainPart)
-		}
-		if decodedBytes != nil {
-			var configData map[string]interface{}
-			if json.Unmarshal(decodedBytes, &configData) == nil {
-				configData["ps"] = newName
-				if modifiedJSON, err := json.Marshal(configData); err == nil {
-					newEncodedData := base64.StdEncoding.EncodeToString(modifiedJSON)
-					return fmt.Sprintf("%s://%s", protocol, newEncodedData)
-				}
-			}
-		}
-	}
-	return fmt.Sprintf("%s://%s#%s", protocol, mainPart, newName)
-}
-
-func renameConfig(configLink string, client *http.Client) (string, error) {
-	parts := strings.SplitN(configLink, "://", 2)
-	if len(parts) != 2 {
-		return configLink, fmt.Errorf("invalid format")
-	}
-	protocol := parts[0]
-	mainPart := strings.SplitN(parts[1], "#", 2)[0]
-	var address string
-	switch protocol {
-	case "vless", "vmess":
-		decodedBytes, err := base64.RawURLEncoding.DecodeString(mainPart)
-		if err != nil {
-			decodedBytes, err = base64.StdEncoding.DecodeString(mainPart)
-			if err != nil {
-				return configLink, fmt.Errorf("base64 decoding failed")
-			}
-		}
-		var configData map[string]interface{}
-		if err := json.Unmarshal(decodedBytes, &configData); err != nil {
-			return configLink, fmt.Errorf("not a JSON-based config")
-		}
-		addr, ok := configData["add"].(string)
-		if !ok || addr == "" {
-			return configLink, fmt.Errorf("address field not found")
-		}
-		address = addr
-	case "trojan", "ss":
-		atParts := strings.SplitN(mainPart, "@", 2)
-		if len(atParts) != 2 {
-			return configLink, fmt.Errorf("invalid %s format", protocol)
-		}
-		addrPort := atParts[1]
-		address = strings.SplitN(addrPort, ":", 2)[0]
-	default:
-		return configLink, fmt.Errorf("unsupported protocol for renaming: %s", protocol)
-	}
-	if flag, ok := ipToFlagCache.Load(address); ok {
-		return buildNewLink(protocol, mainPart, flag.(string)), nil
-	}
-	flag, err := getCountryFlag(address, client)
-	if err != nil {
-		return configLink, fmt.Errorf("could not get flag for %s: %v", address, err)
-	}
-	ipToFlagCache.Store(address, flag)
-	return buildNewLink(protocol, mainPart, flag), nil
 }
 
 func splitByProtocol(configs []string) error {
