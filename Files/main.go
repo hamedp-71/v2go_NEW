@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"context"
 	"encoding/base64"
-	"encoding/json"
 	"fmt"
 	"io"
 	"net"
@@ -21,13 +20,6 @@ const (
 	maxWorkers      = 20
 	maxLinesPerFile = 500
 )
-
-type GeoIPResponse struct {
-	CountryCode string `json:"countryCode"`
-	Status      string `json:"status"`
-}
-
-var ipToFlagCache = sync.Map{}
 
 var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 #//profile-update-interval: 1
@@ -46,63 +38,8 @@ type Result struct {
 }
 
 func main() {
-	fmt.Println("Starting V2Ray config aggregator...")
-	base64Folder, err := ensureDirectoriesExist()
-	if err != nil {
-		fmt.Printf("Error creating directories: %v\n", err)
-		return
-	}
-	client := &http.Client{
-		Timeout: timeout,
-		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
-	}
-	fmt.Println("Fetching configurations from sources...")
-	allConfigs := fetchAllConfigs(client, links, dirLinks)
-	fmt.Println("Filtering configurations and removing duplicates...")
-	originalCount := len(allConfigs)
-	filteredConfigs := filterForProtocols(allConfigs, protocols)
-	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
-	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
-
-	fmt.Println("Renaming configurations and adding country flags...")
-	var wg sync.WaitGroup
-	renamedChan := make(chan string, len(filteredConfigs))
-	semaphore := make(chan struct{}, maxWorkers)
-	var successCount, failCount int32
-	var mu sync.Mutex
-
-	for _, config := range filteredConfigs {
-		wg.Add(1)
-		go func(c string) {
-			defer wg.Done()
-			semaphore <- struct{}{}
-			defer func() { <-semaphore }()
-			newName, err := renameConfig(c, client)
-			if err != nil {
-				mu.Lock()
-				failCount++
-				mu.Unlock()
-				renamedChan <- c
-			} else {
-				mu.Lock()
-				successCount++
-				mu.Unlock()
-				renamedChan <- newName
-			}
-		}(config)
-	}
-	wg.Wait()
-	close(renamedChan)
-
-	fmt.Printf("\n--- Renaming Summary ---\n")
-	fmt.Printf("Successful renames: %d\n", successCount)
-	fmt.Printf("Failed renames:     %d\n", failCount)
-	fmt.Printf("------------------------\n\n")
-
-	var renamedConfigs []string
-	for renamed := range renamedChan {
-		renamedConfigs = append(renamedConfigs, renamed)
-	}
+// تغییر نام حذف شد. کانفیگ‌ها بدون تغییر استفاده می‌شوند.
+	renamedConfigs := filteredConfigs
 
 	cleanExistingFiles(base64Folder)
 	
