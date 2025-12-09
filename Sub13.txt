@@ -3,6 +3,10 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://7ac49a893e0bd10c@60.249.3.226:3389?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-556%20%7C%20free-nodes
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5%20TROJAN-555%20%7C%20free-nodes
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10826?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-554%20%7C%20free-nodes
+trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%E6%9C%AA%E7%9F%A5%20TROJAN-553%20%7C%20free-nodes
 trojan://e2afc128-ca51-39b6-897c-eb2649825df9@twb-zf.jiashumao.net:25888?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-552%20%7C%20free-nodes
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17106?security=tls&sni=hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5%20TROJAN-551%20%7C%20free-nodes
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=fr1.trojanvh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-550%20%7C%20free-nodes
@@ -499,7 +503,3 @@ vless://2a2a6062-003c-0012-b293-ee0d0416afee@87.242.101.25:8443?security=reality
 vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk1.oomz.ru:443?security=reality&encryption=none&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.bp.com&sid=d923#GB%20VLESS-59%20%7C%20free-nodes
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&headerType=none#US%20VLESS-58%20%7C%20free-nodes
 vless://2a2a6062-003c-4f44-b293-ee0d0416afee@144.124.252.20:443?security=reality&encryption=none&pbk=gbP2G_j0cmFvgmWaWLpzZavEzQiPzky-fApmbF2BWxU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=5ad114a9#%E6%9C%AA%E7%9F%A5%20VLESS-57%20%7C%20free-nodes
-vless://2a2a6062-003c-0012-b293-ee0d0416afee@176.123.162.253:8443?security=reality&encryption=none&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=7c9cc821#RU%20VLESS-56%20%7C%20free-nodes
-vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#%E6%9C%AA%E7%9F%A5%20VLESS-55%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA@clr.ducks.tel:17844#%E6%9C%AA%E7%9F%A5%20SS-54%20%7C%20free-nodes
-vless://2a2a6062-003c-0001-b293-ee0d0416afee@87.242.101.33:8443?security=reality&encryption=none&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me&sid=68#GB%20VLESS-53%20%7C%20free-nodes
