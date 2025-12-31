@@ -3,83 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@8cd2zotq1ryet.kentakyltumn.lat:2052?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=web.eitaa.com&amp;sid=c745dcb0#🇩🇪[openproxylist.com] vless-DE
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@46.224.149.168:2052?security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=3188433840#🇩🇪[openproxylist.com] vless-DE
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@46.224.146.195:2052?security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=c2#🇩🇪[openproxylist.com] vless-DE
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@46.224.56.108:2052?security=reality&amp;encryption=none&amp;pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&amp;fp=chrome&amp;type=grpc&amp;sni=web.eitaa.com&amp;sid=c2#🇩🇪[openproxylist.com] vless-DE
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.217:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.219:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇩🇪[openproxylist.com] vless-DE
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.221:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.222:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.224:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.83:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#🇬🇧[openproxylist.com] vless-GB
-vless://fbcc8fc6-553c-497c-ba3b-855bcf6cf96c@206.245.157.142:37050?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=3_i89UAZojlosMAy71tEepTTbX5MvpfY1Xs7UPPNGGA&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=google.com&amp;sid=58b5bed80f#🇳🇱[openproxylist.com] vless-NL
-vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇺🇸[openproxylist.com] vless-US
-vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&amp;encryption=none&amp;pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=alfabank.ru&amp;sid=00e7#🇱🇻[openproxylist.com] vless-LV
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.153:443?encryption=none&amp;security=tls&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;path=%2Fhormoz#🇩🇪[openproxylist.com] vless-DE
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.127:8880?encryption=none&type=grpc&packetEncoding=xudp#🇺🇸[openproxylist.com] vless-US
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸[openproxylist.com] vless-US
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.4.20:8880?encryption=none&type=grpc&packetEncoding=xudp#🇺🇸[openproxylist.com] vless-US
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.24.98:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇵🇱[openproxylist.com] vless-PL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.23.141:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇳🇱[openproxylist.com] vless-NL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.97.57:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇳🇱[openproxylist.com] vless-NL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.119:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇩🇪[openproxylist.com] vless-DE
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE3Mi4yMzQuMTMyLjIzMiIsInBvcnQiOiIxMDAwMSIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQjVSUW9ad3RFSXgzY1VzSmVHeGoy@193.43.104.125:15983#🇩🇪[openproxylist.com] ss-DE
-vless://26c4884d-e265-4507-94bf-83f6a144fedc@194.87.219.24:28723?security=reality&amp;encryption=none&amp;pbk=wuev4Ui4vOUl43k_O9pB0i6W6IuGvoM13lTBcI_DGkk&amp;fp=chrome&amp;type=grpc&amp;sni=dev.max.ru&amp;sid=0600#🇳🇱[openproxylist.com] vless-NL
-vless://97e10d36-c8fc-429a-b3d7-dcc67b718d0f@2.56.178.73:8443?security=reality&amp;encryption=none&amp;pbk=henSnE5bp7VH5HLvQGA8aepmLrngfZc9yV-xhQK5gik&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.microsoft.com&amp;sid=c4920b7b39#🇮🇹[openproxylist.com] vless-IT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@169.150.242.77:990#🇭🇷[openproxylist.com] ss-HR
-vless://07a4ef14-34b3-44b5-bc08-343cc74adc0e@130.49.179.23:443?security=reality&encryption=none&pbk=93Du08FNcqS0CQxN9ADDOE3fBQ_l2jftFLVt0jdNwSc&headerType=none&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=60b2f38b#🇷🇺[openproxylist.com] vless-RU
-vless://e9dbc178-3656-40f8-8833-5023f306ef1d@hk01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇭🇰[openproxylist.com] vless-HK
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.48:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@stf8bnl5r1c0vm.sheraitonldayh.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=830b34f52730#🇩🇪[openproxylist.com] vless-DE
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@109.248.222.151:443?security=reality&amp;encryption=none&amp;pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nsk.geodema.network&amp;sid=1ed136481e0ede74#🇷🇺[openproxylist.com] vless-RU
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.151:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺[openproxylist.com] vless-RU
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.26.96:4248?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇷🇺[openproxylist.com] vless-RU
-trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&amp;sni=ru2.nnvpn.io&amp;alpn=h2,http/1.1&amp;fp=chrome#🇷🇺[openproxylist.com] trojan-RU
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698?mode=gun&security=reality&encryption=none&authority=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=grpc&sni=lenovoglobal.com&sid=34#🇰🇷[openproxylist.com] vless-KR
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@185.92.183.112:443?security=reality&encryption=none&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net#🇫🇮[openproxylist.com] vless-FI
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@43hic3j.futurebalhbyh.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=c745dcb0#🇩🇪[openproxylist.com] vless-DE
-vless://ddffda27-8c5f-4f53-8450-4d11a1e0b368@144.124.228.129:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#🇳🇱[openproxylist.com] vless-NL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.19.203:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇳🇱[openproxylist.com] vless-NL
-vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@pn7nlapp.farsiblockchain.com:443?security=reality&encryption=none&pbk=LshfUTu4rb73gmpxT53QfVgElQdDCtAr7kEwZsgkhHw&headerType=none&fp=chrome&spx=%2F7c&type=tcp&flow=xtls-rprx-vision&sni=pn7nlapp.farsiblockchain.com&sid=c7#🇳🇱[openproxylist.com] vless-NL
-vless://b2b0791a-14f8-4260-baab-b9dee270ffec@94.103.1.44:443?security=reality&amp;encryption=none&amp;pbk=wffi6nrJbxOiA0g7IuiXB4FZ7tkFtb9eRkPS9UvWPks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=disk.yandex.ru&amp;sid=9ec7e0#🇳🇱[openproxylist.com] vless-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇫🇷[openproxylist.com] ss-FR
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#🇫🇮[openproxylist.com] vless-FI
-vless://dfb88783-5942-41fe-948e-04736d42f422@5.75.201.242:443?allowInsecure=0#🇩🇪[openproxylist.com] vless-DE
-vless://fbcc8fc6-553c-497c-ba3b-855bcf6cf96c@74.112.100.14:57864?security=reality&amp;encryption=none&amp;pbk=y7NiWf-LRzjnmW5FJwswZO7T-Uz7WFIvbOkn0Pph6gU&amp;fp=chrome&amp;type=grpc&amp;sni=google.com&amp;sid=ad#🇳🇱[openproxylist.com] vless-NL
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.99:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1#🇺🇸[openproxylist.com] vless-US
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.58:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1#🇩🇪[openproxylist.com] vless-DE
-vless://f9c66710-e8e5-4a1f-be7b-c7dda9390382@5.75.198.40:40080?type=ws&encryption=none&path=%2FTelegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2------Telegram---armanstore2-------------Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2------Telegram---armanstore2-----------Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2----Telegram---armanstore2------Telegram---armanstore2&host=telewebion.com&security=none#🇩🇪[openproxylist.com] vless-DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@desrv.vmagnum.win:57456#🇩🇪[openproxylist.com] ss-DE
-vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=chrome&pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&sid=69f3807321&type=tcp&headerType=none#🇳🇱[openproxylist.com] vless-NL
-trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#🇯🇵[openproxylist.com] trojan-JP
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933?allowInsecure=0&sni=www.nintendogames.net#🇯🇵[openproxylist.com] trojan-JP
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.172:4248?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇷🇺[openproxylist.com] vless-RU
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.98.83:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇩🇪[openproxylist.com] vless-DE
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.16.101:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇩🇪[openproxylist.com] vless-DE
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.98.101:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇪🇪[openproxylist.com] vless-EE
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.110.75:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇪🇪[openproxylist.com] vless-EE
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.29.71:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇩🇪[openproxylist.com] vless-DE
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.232:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇵🇱[openproxylist.com] vless-PL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.99:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=6ba85179e30d4fc2#🇳🇱[openproxylist.com] vless-NL
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.29.132:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#🇩🇪[openproxylist.com] vless-DE
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.246.82:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn.userway.org#🇭🇰[openproxylist.com] vless-HK
-vless://e5835209-52e9-429e-8ebb-e87113293236@212.233.89.104:443?security=reality&amp;encryption=none&amp;pbk=MZz-39gknMNeg4P6vTV3zKLrbIzf87oxtKB1T-Vu-SQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tunnel.vk-apps.com&amp;sid=491db313#🇫🇮[openproxylist.com] vless-FI
-vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?security=reality&amp;encryption=none&amp;pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vk.com&amp;sid=69f3807321#🇵🇱[openproxylist.com] vless-PL
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇬🇧[openproxylist.com] ss-GB
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#🇭🇰HK%20%20ROSE—644
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.143:38388#🇻🇳VN%20%20ROSE—643
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.200:38388#🇻🇳VN%20%20ROSE—642
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.52:38388#🇻🇳VN%20%20ROSE—641
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.156:38388#🇻🇳VN%20%20ROSE—640
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.62:38388#🇻🇳VN%20%20ROSE—639
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.121:38388#🇻🇳VN%20%20ROSE—638
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.51:38388#🇻🇳VN%20%20ROSE—637
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.37:38388#🇻🇳VN%20%20ROSE—636
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.231:38388#🇻🇳VN%20%20ROSE—635
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.224:38388#🇻🇳VN%20%20ROSE—634
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.164:38388#🇻🇳VN%20%20ROSE—633
@@ -503,3 +426,80 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.221:38388#🇻🇳VN%20%20ROSE—215
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.75:38388#🇻🇳VN%20%20ROSE—214
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.32:38388#🇻🇳VN%20%20ROSE—213
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.198:38388#🇻🇳VN%20%20ROSE—212
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.54:38388#🇻🇳VN%20%20ROSE—211
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.235:38388#🇻🇳VN%20%20ROSE—210
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.207:38388#🇻🇳VN%20%20ROSE—209
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.246:38388#🇻🇳VN%20%20ROSE—208
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.129:38388#🇻🇳VN%20%20ROSE—207
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.57:38388#🇻🇳VN%20%20ROSE—206
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.4:38388#🇻🇳VN%20%20ROSE—205
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#🇻🇳VN%20%20ROSE—204
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.209:38388#🇻🇳VN%20%20ROSE—203
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.189:38388#🇻🇳VN%20%20ROSE—202
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.49:38388#🇻🇳VN%20%20ROSE—201
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.221:38388#🇻🇳VN%20%20ROSE—200
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.103:38388#🇻🇳VN%20%20ROSE—199
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.224:38388#🇻🇳VN%20%20ROSE—198
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.83:38388#🇻🇳VN%20%20ROSE—197
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.113:38388#🇻🇳VN%20%20ROSE—196
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.29:38388#🇻🇳VN%20%20ROSE—195
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#🇻🇳VN%20%20ROSE—194
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.230:38388#🇻🇳VN%20%20ROSE—193
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.225:38388#🇻🇳VN%20%20ROSE—192
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#🇻🇳VN%20%20ROSE—191
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#🇻🇳VN%20%20ROSE—190
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.102:38388#🇻🇳VN%20%20ROSE—189
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.247:38388#🇻🇳VN%20%20ROSE—188
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.53:38388#🇻🇳VN%20%20ROSE—187
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.153:38388#🇻🇳VN%20%20ROSE—186
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.24:38388#🇻🇳VN%20%20ROSE—185
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.245:38388#🇻🇳VN%20%20ROSE—184
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.233:38388#🇻🇳VN%20%20ROSE—183
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.223:38388#🇻🇳VN%20%20ROSE—182
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.154:38388#🇻🇳VN%20%20ROSE—181
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.233:38388#🇻🇳VN%20%20ROSE—180
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.43:38388#🇻🇳VN%20%20ROSE—179
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.240:38388#🇻🇳VN%20%20ROSE—178
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.56:38388#🇻🇳VN%20%20ROSE—177
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.110:38388#🇻🇳VN%20%20ROSE—176
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.244:38388#🇻🇳VN%20%20ROSE—175
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.68:38388#🇻🇳VN%20%20ROSE—174
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.213:38388#🇻🇳VN%20%20ROSE—173
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.44:38388#🇻🇳VN%20%20ROSE—172
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.231:38388#🇻🇳VN%20%20ROSE—171
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.183:38388#🇻🇳VN%20%20ROSE—170
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.165:38388#🇻🇳VN%20%20ROSE—169
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.232:38388#🇻🇳VN%20%20ROSE—168
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.8:38388#🇻🇳VN%20%20ROSE—167
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388#🇻🇳VN%20%20ROSE—166
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.62:38388#🇻🇳VN%20%20ROSE—165
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.79:38388#🇻🇳VN%20%20ROSE—164
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.220:38388#🇻🇳VN%20%20ROSE—163
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.27:38388#🇻🇳VN%20%20ROSE—162
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.204:38388#🇻🇳VN%20%20ROSE—161
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.139:38388#🇻🇳VN%20%20ROSE—160
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.117:38388#🇻🇳VN%20%20ROSE—159
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#🇻🇳VN%20%20ROSE—158
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#🇻🇳VN%20%20ROSE—157
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.240:38388#🇻🇳VN%20%20ROSE—156
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.219:38388#🇻🇳VN%20%20ROSE—155
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱PL%20%20ROSE—154
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.18:9018#🇵🇱PL%20%20ROSE—153
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#🇹🇼TW%20%20ROSE—152
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#🇹🇷TR%20%20ROSE—151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI@huojian3.vn9987.top:51004#🇺🇸US%20%20ROSE—150
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw@23.95.72.81:443#🇺🇸US%20%20ROSE—149
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#🇿🇦ZA%20%20ROSE—148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqQnlZSUE2TFc0cHNaM0JHYjRQZUtT@72.61.79.179:45084#🇺🇸US%20%20ROSE—147
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI@69.30.251.122:51004#🇺🇸US%20%20ROSE—146
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#🇨🇦CA%20%20ROSE—145
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@173.234.29.2:990#🇺🇸US%20%20ROSE—144
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@167.160.90.178:990#🇺🇸US%20%20ROSE—143
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@23.95.75.146:443#🇺🇸US%20%20ROSE—142
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGOXduNGNPZDFESFg5Vzk3RXlGakx0@104.192.227.162:443#🇺🇸US%20%20ROSE—141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eDlrYnFXeVpmY0pFQy1ubTBrdGtn@139.60.162.224:1080#🇺🇸US%20%20ROSE—140
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnS2FFMzMzU09uRHRBRTV6ZVo0dWxw@dyn.usa.outlinekeys.net:56636#🇺🇸US%20%20ROSE—139
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🇹🇭TH%20%20ROSE—138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🇸🇮SI%20%20ROSE—137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#🇹🇭TH%20%20ROSE—136
