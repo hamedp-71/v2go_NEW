@@ -1,39 +1,3 @@
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&path=%2Ff2fc2a1f&sni=hl-freedom-1.undef.network&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
-trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?allowInsecure=1&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#%3E%3E%40outline_vpn%3A%3ACH
-trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
-trojan://T9BpZIVMNv@vip2.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
-trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?allowInsecure=1&host=sg-trojan.andfree.my.id&path=%2Fwelcome&sni=sg-trojan.andfree.my.id&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:491?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
-trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.122.20:443?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AHK
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
-trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40configV2rayNG%3A%3APL
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIS
-trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40prrofile_purple%3A%3APL
-trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#%3E%3E%40ultrasurf_12%3A%3ANZ
-trojan://zWFjJENcljZm@usa.visa.com:443/?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.creationlong.org&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.creationlong.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40flyv2ray%20%231
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
-trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
-trojan://humanity@chatgpt.com:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.gossipglove.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v_2rayng0%20%231
-trojan://humanity@www.calmlunch.com:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.calmlunch.com&amp%3Btype=ws&amp%3Bsni=www.calmlunch.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%231
 trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US-38.180.137.196-0309
 trojan://c1d83c0c7d57cead4379ba14a82df69b@116.80.76.130:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-116.80.76.130-0833
 trojan://c1d83c0c7d57cead4379ba14a82df69b@152.42.254.150:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-152.42.254.150-0244
@@ -61,21 +25,35 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semant
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-0306
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-4765
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:491?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0275
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#IR-%40V2rayAlpha-32`
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:5076?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#A7
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%94%A5v2BOX_051%40%F0%9F%92%8E
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@meliproxyy
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40Filter_breaker
+trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-17-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-19-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-25-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?allowInsecure=0&sni=www.nintendogames.net#hamedp71-26-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-29-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-33-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-34-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-38-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-41-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇪🇸%20Spain%20-%201
 trojan://telegram-id-directvpn@35.181.17.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&type=ws#🇬🇧[openproxylist.com] trojan-GB
 trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&sni=cloudflare.com&fp=chrome&pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&sid=6d7efa97b2&spx=%2F&type=grpc#🇺🇸[openproxylist.com] trojan-US
 trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?path=%2Fwelcome&security=tls&insecure=1&host=sg-trojan.andfree.my.id&type=ws&allowInsecure=1&sni=sg-trojan.andfree.my.id#🏳[openproxylist.com] trojan-
 trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.84.150:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#🇮🇸[openproxylist.com] trojan-IS
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?security=tls&sni=frankfurtrm2.686911.xyz#🇩🇪[openproxylist.com] trojan-DE
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🇸🇪[openproxylist.com] trojan-SE
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#🇸🇪[openproxylist.com] trojan-SE
 trojan://BxceQaOe@18.182.62.89:1221?allowInsecure=1&sni=t.me%2Fripaojiedian#🇺🇸[openproxylist.com] trojan-US
 trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.122.20:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&amp%3Bsecurity=tls&amp%3Bsni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40netfreedom0%20%231
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#IR-%40V2rayAlpha-32`
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:5076?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#A7
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%94%A5v2BOX_051%40%F0%9F%92%8E
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#@meliproxyy
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40Filter_breaker
 trojan://BxceQaOe@219.76.135.98:443?allowInsecure=1&sni=t.me%25252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=0&sni=83.143.87.9#%F0%9F%87%B3%F0%9F%87%B4%20%E6%8C%AA%E5%A8%81%20V2CROSS.COM
@@ -125,27 +103,45 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.193.194:443?allowInsecure=0&sni
 trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.193.194:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://BxceQaOe@18.182.62.89:1221?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-17-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-19-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-25-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?allowInsecure=0&sni=www.nintendogames.net#hamedp71-26-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-29-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-33-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-34-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-38-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-41-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇪🇸%20Spain%20-%201
-trojan://d03e1173-3109-43c0-a5dd-e2b56916c540@xiaozhu1.kkieo555.cn:11278?security=tls&amp%3Binsecure=1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=1&amp%3Bsni=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20TROJAN%20%7C%20%40Fr33C0nfig%20%231
-trojan://66037360-50d4-49c3-b3e7-810de84917e9@xiaozhu1.kkieo555.cn:11278?security=tls&amp%3Binsecure=1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3BallowInsecure=1&amp%3Bsni=Telegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20TROJAN%20%7C%20%40Fr33C0nfig%20%232
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&amp%3Bsecurity=tls&amp%3Bsni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40netfreedom0%20%231
-trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40proxyfn%20%231
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
-trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&amp%3Bsni=rc6.freeguard.org&amp%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&path=%2Ff2fc2a1f&sni=hl-freedom-1.undef.network&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://T9BpZIVMNv@v1.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
+trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
+trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?allowInsecure=1&path=%2Ff2fc2a1f&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#%3E%3E%40outline_vpn%3A%3ACH
+trojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
+trojan://T9BpZIVMNv@vip2.kaixincloud.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
+trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?allowInsecure=1&host=sg-trojan.andfree.my.id&path=%2Fwelcome&sni=sg-trojan.andfree.my.id&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@104.21.40.34:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:491?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AJP
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.122.20:443?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40configV2rayNG%3A%3APL
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIS
+trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40prrofile_purple%3A%3APL
+trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#%3E%3E%40ultrasurf_12%3A%3ANZ
+trojan://zWFjJENcljZm@usa.visa.com:443/?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11997
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11841
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11646
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20Dynamic-11667
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12043
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20Dynamic-12530
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org#[🇨🇭] [tr-tl-ws] [260204-194225.678]
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?type=ws&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls#[🇬🇧] [tr-tl-ws] [260204-194222.966]
 trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?type=ws&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-1.undef.network#[🇬🇧] [tr-tl-ws] [260204-194223.168]
@@ -156,15 +152,6 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&se
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?type=raw&headerType=none&security=tls&sni=binaryboots.algorithmblanket.click#[🇳🇿] [tr-tl-ra] [260204-194230.570]
 trojan://223c2f69-6b95-4555-9f68-14b14d72b7ea@220.130.58.136:35501?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸] [tr-tl-ra] [260204-194220.032]
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇺🇸] [tr-tl-ra] [260204-194227.273]
-trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11997
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11841
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11646
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20Dynamic-11667
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12043
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20Dynamic-12530
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇨🇦 CA | 172.64.152.23
 trojan://telegram-id-directvpn@3.77.16.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.77.16.196
 trojan://telegram-id-directvpn@3.66.146.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.66.146.229
@@ -191,12 +178,12 @@ trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.84.150:443?security=tls&amp;sn
 trojan://iWnFtzMiac@205.185.115.223:19258?security=reality&amp;sni=cloudflare.com&amp;fp=chrome&amp;pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&amp;sid=6d7efa97b2&amp;spx=%2F&amp;type=grpc#US%20TROJAN-29%20%7C%20free-nodes
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&amp;sni=celestialcorset.crystalhamster.click#TR%20TROJAN-30%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@35.181.17.83:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp#FR%20TROJAN-31%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2f1819567b43417b665c456c7b43425e417a651a7b554c1e5d626f474302495d4a4a4b4042021f015a414b4a4901414a5b58405d44">[email&#160;protected]</a>:443?allowInsecure=1&amp;host=hl-freedom-0.undef.network&amp;path=/f2fc2a1f&amp;security=tls&amp;sni=hl-freedom-0.undef.network&amp;type=ws#GB%20TROJAN-23%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="581a203b3d0939173d1869607669606a766e6a766061">[email&#160;protected]</a>:1221?allowInsecure=1&amp;sni=t.me%2Fripaojiedian#US%20TROJAN-24%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b5e18cf7c5effce3f8fbc3f5c3849bd1d4d7d4d6ddd09bc1dac5">[email&#160;protected]</a>:8443?path=/amd&amp;security=tls&amp;insecure=1&amp;host=sweden.vmaxpanel.com&amp;type=ws&amp;allowInsecure=1&amp;sni=sweden.vmaxpanel.com#TR%20TROJAN-25%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9bfaa2aeacaba8a8abb6acada2ffb6aaaafefdb6a2abfff8b6aaaeacacf8aaadaeaaadaca2dbedaab5fffaf9faf8f3feb5eff4eb">[email&#160;protected]</a>:443?path=%2Fwelcome&amp;amp;security=tls&amp;amp;insecure=1&amp;amp;host=sg-trojan.andfree.my.id&amp;amp;type=ws&amp;amp;allowInsecure=1&amp;amp;sni=sg-trojan.andfree.my.id#SG%20TROJAN-26%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="583b693c606b3b683b6f3c6d6f3b3d393c6c6b6f613a39696c39606a3c3e6e613a186a686b7669616076696a6a766a68">[email&#160;protected]</a>:443?security=tls&amp;sni=www.nintendogames.net#HK%20TROJAN-27%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b4d785d08c87d784d783d08183d7d1d5d08087838dd6d58580d58c86d0d2828dd6f48684879a858d8c9a8c809a858184">[email&#160;protected]</a>:443?security=tls&amp;sni=www.nintendogames.net#HK%20TROJAN-28%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a7cef0c9e1d3ddeacec6c4e795979289969f928996969289959594">[email&#160;protected]</a>:19258?security=reality&amp;sni=cloudflare.com&amp;fp=chrome&amp;pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&amp;sid=6d7efa97b2&amp;spx=%2F&amp;type=grpc#US%20TROJAN-29%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="27564a65746c49664b116b7e4e1e1a5d15147554097d6714100915141209131e0915171e">[email&#160;protected]</a>:28099?security=tls&amp;sni=celestialcorset.crystalhamster.click#TR%20TROJAN-30%20%7C%20free-nodes
-trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f783929b929085969ada9e93da87859e8196839281879984b7c4c2d9c6cfc6d9c6c0d9cfc4">[email&#160;protected]</a>:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp#FR%20TROJAN-31%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e3d4d59ab78f8db7aa9089a0b78f8e928db6a9d6b79980d291aea38b8fce85918686878c8eced3cd968d878685cd8d8697948c9188">[email&#160;protected]</a>:443?allowInsecure=1&amp;host=hl-freedom-0.undef.network&amp;path=/f2fc2a1f&amp;security=tls&amp;sni=hl-freedom-0.undef.network&amp;type=ws#GB%20TROJAN-23%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9ddfe5fef8ccfcd2f8ddaca5b3aca5afb3abafb3a5a4">[email&#160;protected]</a>:1221?allowInsecure=1&amp;sni=t.me%2Fripaojiedian#US%20TROJAN-24%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="36620f74466c7f607b78407640071852575457555e5318425946">[email&#160;protected]</a>:8443?path=/amd&amp;security=tls&amp;insecure=1&amp;host=sweden.vmaxpanel.com&amp;type=ws&amp;allowInsecure=1&amp;sni=sweden.vmaxpanel.com#TR%20TROJAN-25%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="07663e3230373434372a30313e632a363662612a3e3763642a36323030643631323631303e4771362963666566646f6229736877">[email&#160;protected]</a>:443?path=%2Fwelcome&amp;amp;security=tls&amp;amp;insecure=1&amp;amp;host=sg-trojan.andfree.my.id&amp;amp;type=ws&amp;amp;allowInsecure=1&amp;amp;sni=sg-trojan.andfree.my.id#SG%20TROJAN-26%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c2f7d28747f2f7c2f7b28797b2f292d28787f7b752e2d7d782d747e282a7a752e0c7e7c7f627d7574627d7e7e627e7c">[email&#160;protected]</a>:443?security=tls&amp;sni=www.nintendogames.net#HK%20TROJAN-27%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="147725702c2777247723702123777175702027232d76752520752c267072222d76542624273a252d2c3a2c203a252124">[email&#160;protected]</a>:443?security=tls&amp;sni=www.nintendogames.net#HK%20TROJAN-28%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9df4caf3dbe9e7d0f4fcfeddafada8b3aca5a8b3acaca8b3afafae">[email&#160;protected]</a>:19258?security=reality&amp;sni=cloudflare.com&amp;fp=chrome&amp;pbk=q_lg6VnOGhN_Ow5gHtZoDv_mJp-8W7m51N6vKamsMXk&amp;sid=6d7efa97b2&amp;spx=%2F&amp;type=grpc#US%20TROJAN-29%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="75041837263e1b341943392c1c4c480f474627065b2f3546425b4746405b414c5b47454c">[email&#160;protected]</a>:28099?security=tls&amp;sni=celestialcorset.crystalhamster.click#TR%20TROJAN-30%20%7C%20free-nodes
+trojan://<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f286979e979580939fdf9b96df82809b8493869784829c81b2c1c7dcc3cac3dcc3c5dccac1">[email&#160;protected]</a>:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp#FR%20TROJAN-31%20%7C%20free-nodes
