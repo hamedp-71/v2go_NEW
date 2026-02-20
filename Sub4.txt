@@ -3,9 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#🐒83@oneclickvpnkeys
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDE3NCIsImFkZCI6ImdHZ25oSHkuaFVBbkdzSEFORy5vbmxpTmUiLCJwb3J0Ijo0NDMsImlkIjoiNDExNWY4NGQtM2IwMy00YjAzLWJhYmYtMjFiMzZiMmY5YzAzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJHR2duSGh5LkhVYU5nc2hhTkcub25saU5FIiwiYWxwbiI6Imh0dHAvMS4xIiwicGF0aCI6Ii9HZ2lnYXpGR0RMZ0ZXREl0a0Q1WGdYQUwiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJHR2duaGhZLkh1YW5Hc0hhbkcuT05MaU5lIiwiZnAiOiJjaHJvbWUifQ==
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@www.speedtest.net:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 vmess://ewogICAgImFkZCI6ICJ2MnJheS5jb2RlZnlpbmMuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsCiAgICAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0yMDkuMTI2Ljg0LjE4OS0wODY1IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.99:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.74:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2029
@@ -503,3 +500,6 @@ vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cdnjs.com:2083?path=/@mahdi_383ir&s
 vless://f4183baa-d87a-42c2-a5c2-b1211cfedb0e@goodtime2.oryzo.ir:8080/?path=/de?ed=1048&security=none&encryption=none&host=netherland.4.9.1canva.com.ea.com.cloudflare.com.0.google.com.kaktusvps.ir&type=httpupgrade#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.35:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2044
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.156:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20157
+ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@udemy.com:443/?path=/47.254.255.125=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJhZGQiOiAiMTg1LjEwNC4xODkuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.143:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20339
