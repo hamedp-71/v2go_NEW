@@ -3,6 +3,8 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsInBvcnQiOiIyMDgyIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4ezXSBbdm0tbm8td3NdIFsyNjAyMjMtMjAyOTE2LjQ1M10ifQo=
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJwb3J0IjoiODYxMyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4e68J+Hs10gW3ZtLW5vLXdzXSBbMjYwMjIzLTIwMjkxNi4xMTZdIn0K
 vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiaWQiOiIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLCJwb3J0IjoiNTUxODUiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL05vdGlmX0NoYXQiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HuvCfh7NdIFt2bS1uby13c10gWzI2MDIyMy0yMDI5MTYuMDQ2XSJ9Cg==
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwicG9ydCI6IjQ0ODY3Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4ezXSBbdm0tbm8td3NdIFsyNjAyMjMtMjAyOTE1Ljk3Nl0ifQo=
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwicG9ydCI6IjM2NzAzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4ezXSBbdm0tbm8td3NdIFsyNjAyMjMtMjAyOTE1LjkwNV0ifQo=
@@ -501,5 +503,3 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:800#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0179
 vless://1b0ad61b-1be2-4cda-9979-984a965b0da5@87.229.34.164:4444/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#@chillguy_vpn
 vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@18.199.94.219:28706?encryption=none&type=tcp#Telegram:@config_proxy 💦
-ss://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/167.179.110.68=8443#https://t.me/allproconf
-vless://3590e96a-f181-4e53-b582-d3c079f2c3d7@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#@NETMelliAnti
