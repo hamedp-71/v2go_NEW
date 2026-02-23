@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@nnmkl.2nn.ccwu.cc:80?type=ws&encryption=none&host=nnmkl.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#@chillguy_vpn
 vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.122.204.22:443?security=&encryption=none&headerType=&type=tcp#@VpnMaan 12
 trojan://m7nzbech-hl11-8ng4-fl7g-msjn6qajncr9@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#@meliproxyy
@@ -502,4 +503,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?alpn=h3h2&e
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096/?encryption=none&security=tls&sni=hetz.x-smm.com&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292#@v2rays_ha 10773
 vmess://eyJhZGQiOiAiMTA0LjI2LjE0Ljg1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01NzEyOTY0OTcuaXJhbnByZXNzLmNvIiwgImlkIjogImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#Channel : @Daily_Configs
-vless://fca42527-0f5f-4227-9554-ba32702fe90c@18.199.80.93:443?encryption=none&security=none&type=tcp&headerType=none#https://t.me/allproconf
