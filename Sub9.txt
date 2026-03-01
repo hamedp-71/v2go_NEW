@@ -3,12 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.158.37:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://68f82540-72da-4d1c-9529-d377e3104412@198.41.208.176:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@198.41.209.0:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.64.94.9:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@162.159.248.151:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@141.101.115.46:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
 vless://68f82540-72da-4d1c-9529-d377e3104412@104.17.158.150:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20RTL
 vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.134.226:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
 vless://68f82540-72da-4d1c-9529-d377e3104412@104.16.126.178:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20RTL
@@ -503,3 +497,9 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#🇻🇳VN%20%20ROSE—440
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.219:38388#🇻🇳VN%20%20ROSE—439
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱PL%20%20ROSE—438
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.18:9018#🇵🇱PL%20%20ROSE—437
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#🇹🇼TW%20%20ROSE—436
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#🇹🇷TR%20%20ROSE—435
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw@23.95.72.81:443#🇺🇸US%20%20ROSE—434
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqQnlZSUE2TFc0cHNaM0JHYjRQZUtT@72.61.79.179:45084#🇺🇸US%20%20ROSE—433
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA@23.95.75.146:443#🇺🇸US%20%20ROSE—432
