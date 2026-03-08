@@ -3,6 +3,8 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://2dd47d3e-62aa-479c-a5c2-34b4826f3773@162.159.153.187:8443?allowInsecure=1&encryption=none&host=52yunwang.dpdns.org&path=%2F&security=tls&sni=52yunwang.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#%3E%3E%40configshub2%3A%3ADE
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.44.73:443?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#%3E%3E%40configshub2%3A%3AUS
 vless://26524cce-d514-4014-a426-365fb266a14d@104.16.71.33:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%3E%3E%40v2nodes%3A%3AUS
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#%3E%3E%40oneclickvpnkeys%3A%3AXX
