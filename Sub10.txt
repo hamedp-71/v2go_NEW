@@ -3,8 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.12.63:8443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052/?type=ws&encryption=none&flow=&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
