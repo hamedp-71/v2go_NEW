@@ -374,7 +374,6 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?encryption=none
 vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?encryption=none&type=raw&headerType=http&host=arvancloud.ir&path=%2F&security=none#[🇦🇹] [vl-no-ra] [260327-172243.048]
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sni=yahoo.com&sid=0e#[🇦🇲] [vl-re-ra] [260327-172259.435]
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#[🇦🇱] [vl-no-ws] [260327-172222.695]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20%40KIA_NET%20%DA%86%D9%86%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D9%85
 vless://1cc8480d-b0f2-4756-84bd-d4e5cd9fe345@81.90.17.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&security=reality&sni=github.com&type=tcp#🧫90@oneclickvpnkeys
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%f0%9f%87%ae%f0%9f%87%b3%20IN%201
 vless://0b792f43-fcfb-4a75-815d-9b8008f232e2@90.156.213.135:443?security=reality&sni=m.vk.com&fp=chrome&pbk=N8f6pT18gYiphhZkP6eIf80gzJI2Lqoh-Q848fS14kw&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#@v2rayconfigamir 8007
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@8.39.125.51:443?security=tls&type=ws&path=%2Fzrf&host=snip.wif.pp.ua&sni=snip.wif.pp.ua&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.215:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2085
 vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=chrome&spx=/&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#@GozargahAzad|🇧🇷
+vless://9c0b4941-5f45-4445-9f58-3f52cf41c137@104.64.32.87:5984?security=none&encryption=none&headerType=none&type=tcp#@v2_mod_shop (تلگرام)
