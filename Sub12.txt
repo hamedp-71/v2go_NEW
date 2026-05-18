@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F#%3E%3E%40v2nodes%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.226.77.72:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.216.33:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.latonyamadeline.ndjp.net&path=%2F&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.241.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -503,3 +502,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.100:443?allowInsecure=1&e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.166:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
