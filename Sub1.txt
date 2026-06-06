@@ -270,12 +270,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 vmess://eyJhZGQiOiI0Ny4yMzkuMTcyLjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmdWtpbmctcm9vdGZhY2UiLCJuZXQiOiJ3cyIsInBhdGgiOiIvL0BCdWxsU2hpdF9pdSB0ZWxlZ3JhbU5hZGlhIiwicG9ydCI6IjY2NiIsInBzIjoiU2VydmVyIDgwIPCfh63wn4ewIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@185.143.233.235:8880?path=/&security=none&encryption=none&host=a.darafiq.ir&type=ws#Server 79 🇮🇷
 vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@a.darafiq.ir:8880?path=%2F&security=&encryption=none&type=ws#Server 78 🇮🇷
-vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?encryption=none&type=ws&path=%2F&host=oijji.global.ssl.fastly.net#Server 77 🇬🇧
+vless://384e0806-fcee-4f92-b671-bfc6a4794148@speedtest.net:80?encryption=none&type=ws&path=%2F&host=oijji.global.ssl.fastly.net#Server 77 🇨🇦
 vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=/&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#Server 76 🇬🇧
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#Server 75 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#Server 74 🇹🇼
 vless://IR_NETLIFY@194.59.183.234:42115?type=ws&encryption=none&path=/&host=&security=none#Server 73 🇩🇪
-vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?encryption=none&type=ws&path=%2F&host=Asaaabi.global.ssl.fastly.net#Server 72 🇬🇧
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?encryption=none&type=ws&path=%2F&host=Asaaabi.global.ssl.fastly.net#Server 72 🇩🇪
 vmess://eyJhZGQiOiJhcmlzLmFyaXNwaW5nLWlyLnN0b3JlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4uYXJpc3BpbmctaXIuc3RvcmUiLCJpZCI6IjY3Zjc5OTA3LTYxNjMtNDc1Yy1iNWJhLTJhM2ZhYTBjMDJjNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJTZXJ2ZXIgNzEg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiY2RuLmFyaXNwaW5nLWlyLnN0b3JlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiU2VydmVyIDcwIPCfh63wn4ewIiwiYWRkIjoiMTU0LjIwNS4xMzYuMTIyIiwicG9ydCI6Mzc4NDksImlkIjoiMzBlODhmNjctODQ0NS00M2NhLWZmMmItOTYxYmJmNjMzOWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011499tl.cybervena.com:50099#Server 69 🇹🇼
@@ -287,7 +287,7 @@ vmess://eyJhZGQiOiIxNjIuMTkuMjA0LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@111.248.87.83:50099#Server 63 🇹🇼
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.223.186.62:443?#Server 62 🇨🇦
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.76.99.252:443?#Server 61 🇩🇪
-vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?&security=false&fp=chrome&type=ws&headerType=none&host=Asaaabi.global.ssl.fastly.net&path=/#Server 60 🇬🇧
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?&security=false&fp=chrome&type=ws&headerType=none&host=Asaaabi.global.ssl.fastly.net&path=/#Server 60 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007117fb8.cybervena.com:50099#Server 59 🇹🇼
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#Server 58 🇸🇬
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#Server 57 🇫🇷
@@ -347,7 +347,6 @@ vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encry
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?#Server 3 🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZlJ3ZHJlTGFCT0d3VXpDYVdtdklO@195.93.253.240:14130#Server 2 🇳🇱
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#Server 1 🇩🇪
-ss://Y2hhY2hhMjAtcG9seTEzMDU6d3d3LnYybm9kZXMuY29t@www.v2nodes.com:443#%5BERROR%5D%20Please%20get%20new%20subscription%20link
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tdGwtd3NdIFsyNjA2MDYtMjMzMjA0LjAxMF0ifQo=
 vmess://eyJhZGQiOiI0My4xMzAuNDIuMjE4IiwiaWQiOiJyb290ZmFjZSIsInBvcnQiOiIyMDg5Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii90ZWxlZ3JhbSBAcm9vdGZhY2UiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HuvCfh7hdIFt2bS1uby13c10gWzI2MDYwNi0yMzMzMjAuNjcxXSJ9Cg==
 vmess://eyJhZGQiOiIxNzMuMjQ5LjIwOS4xNDYiLCJpZCI6IjM5MzVjMmRjLWRiYjAtNDNmNy1iMzY3LWZlODlhYmU4N2ZkZiIsInBvcnQiOiIyMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7rwn4e4XSBbdm0tbm8td3NdIFsyNjA2MDYtMjMzMjQyLjQ3M10ifQo=
@@ -503,3 +502,4 @@ vmess://eyJhZGQiOiJjZi5zY3BuYi50b3AiLCJpZCI6IjdmZDhkMWRiLTk2ZWMtNGU0Ni04MGE4LTc0
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwicG9ydCI6IjM2NzAzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrfCfh7BdIFt2bS1uby13c10gWzI2MDYwNi0yMzMzMjEuNjY2XSJ9Cg==
 vmess://eyJhZGQiOiI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwiaWQiOiI1MmY5Y2JmYi01YmIzLTNkZDMtYjk0Ny03MjVlMzY1YzU5ZjMiLCJwb3J0IjoiMTAwMjAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiI2NjU0YzczNGNjYWI4ZjQ0MGZmMDgyNWViNDQzZGM3Zi5xb3Mub25sIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrfCfh7BdIFt2bS1uby13c10gWzI2MDYwNi0yMzMxNTUuMjc3XSJ9Cg==
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwicG9ydCI6IjM2NzAzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4et8J+HsF0gW3ZtLW5vLXdzXSBbMjYwNjA2LTIzMzE0OC43MjddIn0K
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwicG9ydCI6IjQ0ODY3Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrfCfh7BdIFt2bS1uby13c10gWzI2MDYwNi0yMzMxNDguNTkzXSJ9Cg==
