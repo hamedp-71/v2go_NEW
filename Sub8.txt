@@ -3,112 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.23.239:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.41.198:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp%3Dchrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@57.129.89.94:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.183:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://92868492-9572-47fa-946c-9e44edeb62ec@172.247.109.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=PRLqQ27t_SqA759-vyfr1OMgcawB5sqUsUdyyEldXTs&sid=abcd1234&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.178.229.178:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.141:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.196.31.143:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.224.108:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp%3Dchrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://0828a0bc-8acf-422c-9fac-8ad885a0dbaf@176.119.141.136:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE&sid=205f8d&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.250.152:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.195.117:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&allowInsecure=true&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@185.225.20.99:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.114.12.143:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://86134fee-4c27-42e8-8660-e64b9c8150ad@176.109.88.217:33443?encryption=none&security=reality&sni=5post-gate.x5.ru&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&sid&type=grpc&serviceName=grpc&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.230:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.123:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.134.44:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.132:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.52:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.208.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g11.steptofsvo.com&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@57.128.181.26:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@57.129.137.208:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.204:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all065.allenshop66245.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@147.45.39.93:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=firefox&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@185.81.28.39:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.246.92.195:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.239.202:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.60.248.94:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.94:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.56:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.153.203:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@54.37.1.176:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://1113b881-179c-411c-b29b-53dae8faaf0a@log.bpminecraft.com:8880?encryption=none&type=ws&host=raspy-sun-3de0.338.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.21.36.120:443?encryption=none&security=tls&sni=amoosamiii.net&type=ws&host=amoosamiii.net&path=/poiuyws&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?encryption=none&security=tls&sni=amoosamiii.net&type=ws&host=amoosamiii.net&path=/poiuyws&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.207:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.113:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://43488128-319e-f480-64ea-0acdc712e2a8@108.62.60.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=yK54RqOvWlWIXOyrvqs9OhT4LQvBU3u9Fh_CPvGCT2I&sid=2d41a02da93feb08&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.132.127:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.21.95.134:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.248.160:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp%3Dchrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&allowInsecure=true&fp=chrome&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&sid=a852&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sid&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://b320eba7-5380-4bd1-b5e6-32daab16066f@fr-d.duckray.co.uk:3443?encryption=none&security=reality&sni=api.github.com&fp=chrome&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&sid&type=grpc&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&security=reality&sni=yahoo.com&allowInsecure=true&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.223.30:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.57:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.56.180.103:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@62.113.75.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?encryption=none&security=reality&sni=google.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&sid=bd72&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&sid=0c1553316a645758&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.228.36:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp%3Dchrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://4550993c-2191-493a-a612-aaba4a4ec083@g7.steptofsvo.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g7.steptofsvo.com&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://cc3e6e36-b329-435b-bb71-192fb5c718ae@135.125.185.214:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all046.allenshop2025.ir:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://ea0ba5a3-9c16-4e6a-8bed-55449fa053b2@66.33.22.223:48106?encryption=none&type=ws&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.73:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@69.63.212.192:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.150.114:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=true&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@38.207.130.242:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all016.allenshop66245.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@31.56.188.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&sid&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&type=ws&host=octopusss5.info&path=/udfyfws&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.107:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.117.21:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.42.198:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.93:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://a592b4ac-e209-4a13-3cef-539600000005@188.114.96.6:443?encryption=none&security=tls&sni=0404.infinityconfig5.workers.dev&fp=chrome&type=ws&host=0404.infinityconfig5.workers.dev&path=/sync&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.217:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://36644091-0cec-47fe-9955-97c3f424baf7@all104.allenshop66245.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.216:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://cd338ce0-0781-4aef-9b51-639e0f482606@freechatup.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=freechatup.com&fp=chrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.193.253:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&sid=d23753491eefde7e&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://eb6100e8-8f59-d6aa-c018-b3b48795fb7b@x4g-production-b104.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-b104.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=x4g-production-b104.up.railway.app&path=/ws/eb6100e8-8f59-d6aa-c018-b3b48795fb7b&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.129:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&type=ws&host=octopusss5.info&path=/udfyfws&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.76.206.46:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.241.154:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.34.23:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp%3Dchrome&packetEncoding=xudp#@DeltaKroneckerGithub
@@ -443,63 +337,169 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?encryption=none&
 vless://36644091-0cec-47fe-9955-97c3f424baf7@51.89.227.151:443?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.21:8880?encryption=none&type=grpc&packetEncoding=xudp#@DeltaKroneckerGithub
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@219.76.13.183:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:99e8:ea2d:3d3f:7334:adcf:4ce7]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20PSM
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:1f:a305:ff57:ffdb:b0c6:848f]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20DBN
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:8de4:a1e0:8c1d:594a:25a7:e822]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20FNP
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:91bc:e3ef:3fcc:84cd:97d1:3f30]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RYN
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@[2606:4700:91bc:41e7:ab9e:280e:f1e2:2391]:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20SMT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@198.41.223.3:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20PTK
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.171.52:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20AFN
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@198.41.223.103:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20RSP
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@162.159.242.233:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20ZTL
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@198.41.209.23:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20ATC
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.16.164.168:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20AST
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.19.248.84:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20SHM
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.16.0.225:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20FNV
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.19.138.245:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20SBN
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.16.218.149:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20APT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.64.67.69:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.255.148:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.64.85.139:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.158.37:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MBT
-vless://68f82540-72da-4d1c-9529-d377e3104412@198.41.208.176:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@198.41.209.0:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.64.94.9:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@162.159.248.151:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@141.101.115.46:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@104.17.158.150:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.134.226:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@104.16.126.178:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@162.159.255.101:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20RTL
-vless://68f82540-72da-4d1c-9529-d377e3104412@[2606:4700:9a62:fffd:f2d4:f828:e30c:89a4]:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@[2606:4700:8d78:c6bc:1d75:43cf:c14a:bbb5]:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@[2606:4700:3025:afe1:4bb0:e546:8200:5952]:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@[2606:4700:91b7:e27c:c09b:8420:20ff:ae74]:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2048&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@[2606:4700:9a62:e4b:fae0:aef:8bc2:4ef6]:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@[::ffff:681a:909]:443/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@[::ffff:681a:83e]:2053/?type=ws&encryption=none&host=shiny.revilseptember.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Shiny.REvilSeptembEr.WorkErs.dEv&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@104.24.177.69:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.164.46:8443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.132.179:8443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@162.159.237.238:8443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.146.28:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@172.67.116.63:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://68f82540-72da-4d1c-9529-d377e3104412@104.19.85.52:443/?type=ws&encryption=none&host=royal-morning.local-host.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Royal-Morning.Local-Host.WorkErs.dEv&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MTN
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.17.184.111:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.16.252.221:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.17.197.203:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.193.170:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.19.144.232:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.17.62.164:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.18.108.237:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.17.172.97:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.122.62:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.126.137:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@162.159.129.196:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.64.150.2:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.205.146:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@198.41.209.243:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.141.191:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=edge#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.157.2:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=chrome#%20%7C%20FREEDOM%20%7C%20-%20MCI
-vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@162.159.236.240:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=safari#%20%7C%20FREEDOM%20%7C%20-%20MCI
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#🇮🇹IT  ROSE—607
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🇮🇹IT  ROSE—606
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#🇳🇱NL  ROSE—605
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🇳🇱NL  ROSE—604
+ss://YWVzLTI1Ni1nY206ZjRlN2NjM2ItMWZkZS00ODYxLTlhN2UtMjk0NzI4ZDhhMTZh@uk1.connectsuite.org:2083#🇬🇧GB  ROSE—603
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#🇫🇮FI  ROSE—602
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#🇫🇮FI  ROSE—601
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🇳🇱NL  ROSE—600
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzY4ZjA1NTI0M2UyMjVm@135.125.219.2:12911#🇩🇪DE  ROSE—599
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#🇺🇸US  ROSE—598
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352#🇺🇸US  ROSE—597
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#🇳🇱NL  ROSE—596
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹AT  ROSE—595
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.214:30129#🇭🇰HK  ROSE—594
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2SXhNenQ4VzFtRlI0elo1@168.63.66.81:443#🇮🇪IE  ROSE—593
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VGIxaUx3Vm5abks3OXprVnFIU1lx@135.125.239.51:19834#🇩🇪DE  ROSE—592
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@45.144.112.162:812#🇺🇸US  ROSE—591
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZU3ROQ0tSaU9pcTQ@213.167.242.23:443#🇱🇺LU  ROSE—590
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@193.108.118.154:50007#🇩🇪DE  ROSE—589
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@152.89.160.115:33992#🇷🇸RS  ROSE—588
+ss://YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI@193.29.107.197:38742#🇩🇰DK  ROSE—587
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.91.100.134:8080#🇺🇸US  ROSE—586
+ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@193.29.107.179:40282#🇩🇰DK  ROSE—585
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.79.178.63:3306#🇸🇬SG  ROSE—584
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@146.70.28.93:43893#🇦🇹AT  ROSE—583
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@139.162.58.13:443#🇸🇬SG  ROSE—582
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.105.244.165:443#🇩🇪DE  ROSE—581
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@134.195.196.230:6379#🇨🇦CA  ROSE—580
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYjhnYWhLRVFySkV1THZmWjB6MXpvLURaN3c4WXBOWA@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—579
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#🇪🇸ES  ROSE—578
+ss://77-977-977-9cu-_ve-_vXnvv71sOu-_ve-_ve-_vXLvv73vv71577-9bA@clfconnect.pishipishi.pro:8880#🇺🇸US  ROSE—577
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.120:8009#🇺🇸US  ROSE—576
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.120:8008#🇺🇸US  ROSE—575
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.120:8080#🇺🇸US  ROSE—574
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.120:8000#🇺🇸US  ROSE—573
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#🇨🇭CH  ROSE—572
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@us07.network-cdn-gw-yd.net:43211#🇦🇲AM  ROSE—571
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@us05.network-cdn-gw-yd.net:44405#🇺🇸US  ROSE—570
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@us02.network-cdn-gw-yd.net:44402#🇦🇲AM  ROSE—569
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@tw1.network-cdn-gw-yd.net:46601#🇦🇲AM  ROSE—568
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@tw03.network-cdn-gw-yd.net:46603#🇦🇲AM  ROSE—567
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@sgp01.network-cdn-gw-yd.net:45506#🇦🇲AM  ROSE—566
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@jp3.network-cdn-gw-yd.net:48803#🇦🇲AM  ROSE—565
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzgxM2UwMS1lMTMxLTRlZDItOThmZC1jM2E4MDVmYzUxNWY@hk18.network-cdn-gw-yd.net:47708#🇦🇲AM  ROSE—564
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMk5GbER0Uk5mWFpvZlhzRGowM0hk@194.87.45.189:40076#🇪🇸ES  ROSE—563
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMGNTZ3hMcmhVVk9TclJDVEhxTmdFZDM1VXNzYlBiZA@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—562
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdDJOaUJic0h2dmhxVTVhR0VaMnBJ@5.253.59.156:32140#🇳🇱NL  ROSE—561
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#🇸🇪SE  ROSE—560
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCd0NOWFphU2k0YWI3bFF1MmN2TTIw@45.95.233.55:443#🇫🇷FR  ROSE—559
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6d21obklzRWFyX25GS21icWhfeUdtVnNhRUx5bWp1Qw@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—558
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🇳🇱NL  ROSE—557
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🇳🇱NL  ROSE—556
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@us08.network-cdn-gw-yd.net:43212#🇦🇲AM  ROSE—555
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@us05.network-cdn-gw-yd.net:44405#🇺🇸US  ROSE—554
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@us04.network-cdn-gw-yd.net:44404#🇦🇲AM  ROSE—553
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@tw05.network-cdn-gw-yd.net:46605#🇦🇲AM  ROSE—552
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp02.network-cdn-gw-yd.net:45507#🇦🇲AM  ROSE—551
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp01.network-cdn-gw-yd.net:45506#🇦🇲AM  ROSE—550
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@jp3.network-cdn-gw-yd.net:48803#🇦🇲AM  ROSE—549
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@jp04.network-cdn-gw-yd.net:48804#🇦🇲AM  ROSE—548
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@jp01.network-cdn-gw-yd.net:48801#🇦🇲AM  ROSE—547
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@hk11.network-cdn-gw-yd.net:47711#🇦🇲AM  ROSE—546
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowc2FiVVY1X0gwUkgyaUpGRXRqSTJuSjAyVTNTaVFSOA@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—545
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#🇲🇽MX  ROSE—544
+ss://Phoe77-9LE1NYjo-Gh7vv70sTU1i@de-panel.momoeint1.ir:2087#🇮🇷IR  ROSE—543
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WTNkL1UrTW5mL0FGQ1dmRXpoZmtSZGoxbHlBQktZQWh0c1N1MGFzNEo3WT06b0RQM01rVnhmOHZMQlk2eEQrOTlSc1IzMDU1Q2NvTmVVbm1TNE51bEtiRT0@vip7.ez0535.com:443#🇮🇷IR  ROSE—542
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TVh5TFRyM0tvU1JxRWxHaVFobTVzeHNGTmhERjMyWm00U2tNTEVpUDBHMD06bHlFbkx6MjNIM1hBM01jV2dxOWdYMDl3d2t2QkM0TVB0VGY4RlBCY1dqMD0@aplus.zarlexa.ir:50565#🇮🇷IR  ROSE—541
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S1RSL3A3N2s4Z3JhU0Q3VlZKR1FTZDhLN0ZQWG95SUZHOVFTRno5akRZOD06TGRiZ3Q0SVVZdjBTKzVjRnJHNHZjV0VidmRmOFJnUEdtb0lYaG5uT0VoND0@65.109.208.236:31910#🇫🇮FI  ROSE—540
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Yk03b050T1dVNk40Q2dlbmJCK1c3Zz09OmorZGR1ZGV4a2JzdGsyQTN4Nyt0Nnc9PQ@plusgum.lol:888#🇮🇷IR  ROSE—539
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Yk03b050T1dVNk40Q2dlbmJCK1c3Zz09OmorZGR1ZGV4a2JzdGsyQTN4Nyt0Nnc9PQ@dl242.p31download.info:2095#🇮🇷IR  ROSE—538
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443#🇮🇷IR  ROSE—537
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#🇸🇬SG  ROSE—536
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbHJEQlppZlh2c3h5eGVY@168.63.67.154:443#🇮🇪IE  ROSE—535
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸US  ROSE—534
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYkVmR293WnRWMUJFRlhaT3RnQVhp@147.90.234.133:443#🇺🇸US  ROSE—533
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#🇨🇦CA  ROSE—532
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYU0zdmQ1emZSMWF5MXY3aGZuNFg2@tinkered-pennies-puppies.freesocks.work:443#🇺🇸US  ROSE—531
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYkVmR293WnRWMUJFRlhaT3RnQVhp@tinkered-pennies-puppies.freesocks.work:443#🇺🇸US  ROSE—530
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU1VpTjRuRW9MN0lWNzExV3JtbXNB@130.51.22.8:2096#🇺🇸US  ROSE—529
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWlLNVIxcXE4TUdHVXlOOVAyMGF1@147.90.234.133:443#🇺🇸US  ROSE—528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸US  ROSE—527
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.25.172:50099#🇹🇼TW  ROSE—526
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷TR  ROSE—525
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@154.90.32.5:5601#🇵🇭PH  ROSE—524
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#🇸🇦SA  ROSE—523
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.30:20128#🇷🇺RU  ROSE—522
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@176.32.39.106:32432#🇷🇺RU  ROSE—521
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#🇷🇺RU  ROSE—520
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴RO  ROSE—519
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇺🇸US  ROSE—518
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#🇳🇱NL  ROSE—517
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NktZYW9LbWpIOEpNRGYwYWZZZ2Yw@5.253.59.156:32140#🇳🇱NL  ROSE—516
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ@e3.cover20.ir:56985#🇮🇷IR  ROSE—515
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#🇺🇸US  ROSE—514
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZ0lBWFdEQkcxaURKelBjM01JNlp6@5.253.59.156:32140#🇳🇱NL  ROSE—513
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#🇳🇱NL  ROSE—512
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#🇳🇱NL  ROSE—511
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱NL  ROSE—510
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443#🇺🇸US  ROSE—509
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZ29ScWpsV2puOEI3UXFkclpEWDVQYzQ5ZnYwSmwvcks2NTByaW9MNThZPQ@n2.cover20.ir:13641#🇮🇷IR  ROSE—508
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#🇳🇱NL  ROSE—507
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#🇳🇱NL  ROSE—506
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#🇳🇱NL  ROSE—505
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱NL  ROSE—504
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVW5nb0dOaGxzNDAyRkhOd3NJZm1INnk5dWc2WWZQRmhKcHhhMWZpaVQwPQ@n1.cover20.ir:38760#🇮🇷IR  ROSE—503
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#🇳🇱NL  ROSE—502
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#🇳🇱NL  ROSE—501
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#🇳🇱NL  ROSE—500
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#🇲🇾MY  ROSE—499
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#🇰🇷KR  ROSE—498
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#🇰🇷KR  ROSE—497
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#🇰🇷KR  ROSE—496
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@141.164.45.187:8008#🇰🇷KR  ROSE—495
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#🇰🇷KR  ROSE—494
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000#🇰🇷KR  ROSE—493
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#🇰🇷KR  ROSE—492
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#🇰🇷KR  ROSE—491
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#🇰🇷KR  ROSE—490
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101#🇰🇷KR  ROSE—489
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#🇰🇷KR  ROSE—488
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#🇰🇷KR  ROSE—487
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#🇮🇳IN  ROSE—486
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🇮🇳IN  ROSE—485
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#🇮🇳IN  ROSE—484
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#🇮🇳IN  ROSE—483
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTnhyTVZoYWFnbjQzbEtrMGxjT3d6bzItejhTaFhpQS1B@130.94.92.62:17216#🇮🇩ID  ROSE—482
+ss://YWVzLTI1Ni1nY206WEdUa1AyOTdQTGxy@212.192.13.17:8388#🇭🇰HK  ROSE—481
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇬🇧GB  ROSE—480
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧GB  ROSE—479
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@e1.cover20.ir:51570#🇮🇷IR  ROSE—478
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@e4.cover20.ir:16156#🇮🇷IR  ROSE—477
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ@185.84.158.13:19964#🇮🇷IR  ROSE—476
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZndVZXN1Uk4vT25Kanc4cFNtb0dQek9iRWxwMGllMHJPOHcxME1velo4PQ@91.186.193.39:16156#🇮🇷IR  ROSE—475
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@0706-def.kovira2.ir:1010#🇮🇷IR  ROSE—474
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ak9UVmd4ajU3TEJpV1RGTE9vOTk3@95.217.161.87:19345#🇫🇮FI  ROSE—473
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MkZsaWdMblNZZDByTlE0V0UxeTd4@109.107.182.229:51544#🇫🇮FI  ROSE—472
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4M1pKWENucXhhb2FBSXJya2ZvYU5C@109.107.182.229:51544#🇫🇮FI  ROSE—471
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSG8wSXFub29yYnZZRmRSUFlyMm5m@95.217.161.87:63978#🇫🇮FI  ROSE—470
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM1VUYnA1ZFZRSlZ6Vm4zYU4yWGFj@95.217.161.87:12602#🇫🇮FI  ROSE—469
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5clBWLUlQcE83bDh3YjFrQlZZZGNqckpwQjFpVkpzZw@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—468
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTktzc3ZpSFNFUFpYeks3TGlaNm9TRklrZngzZVRpeA@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—467
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUURmS0hxYWQ5d0l4OGhzdXVDY2ZX@95.217.161.87:20014#🇫🇮FI  ROSE—466
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWk9OcjEzTVlEZlI0TzV2Ym85SGNwdnBXLUh0aTFaVw@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—465
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQ1l2SjlaV1RaVmdSSTV5OXpSaHJT@195.133.2.2:34898#🇫🇮FI  ROSE—464
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXakptcVZoTjdaWGNrN0NpaVpjVWh0aHNoUDF2d3VJOQ@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—463
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dHNJOFZzOHpoR3hDbGhXaE0xSjdDb2dmcDlNamNUTw@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—462
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNWRTTkhLTkl1WEpUWHV5WWxITEdn@195.133.2.2:34898#🇫🇮FI  ROSE—461
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRDRDYVk3b05CUmgyVW5qSWtMemJGX0s4Y1hBOVF1Rw@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—460
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YjVROXRSMlNZRGVGWXc5RENvbHA2UnFvdWl1RkdhUg@bot.sobhanpor.ir:1080#🇮🇷IR  ROSE—459
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZmY4Q2c0VzVYUUdvS0hKblR2cHV4@95.217.161.87:56308#🇫🇮FI  ROSE—458
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸ES  ROSE—457
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#🇪🇪EE  ROSE—456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪DE  ROSE—455
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoa2FzYjVjVnJzNGpFMThqQ0VKeEI0R3I1NWhWR1cyNHkzNWdVOUdJSWV5VDMxRnc@213.226.68.8:31348#🇩🇪DE  ROSE—454
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@141.133.175.194:8388#🇨🇿CZ  ROSE—453
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA@141.133.175.194:8388#🇨🇿CZ  ROSE—452
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦CA  ROSE—451
+ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@166.88.130.74:30888#🇺🇸US  ROSE—450
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.147:17283#🇧🇷BR  ROSE—449
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬BG  ROSE—448
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#🇦🇺AU  ROSE—447
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#🇦🇺AU  ROSE—446
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺AU  ROSE—445
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪AE  ROSE—444
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#🇳🇱NL  ROSE—443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱PL  ROSE—442
