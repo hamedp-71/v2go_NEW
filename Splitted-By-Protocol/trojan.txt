@@ -4,13 +4,6 @@ trojan://1b753dd99c1291e87a7b239f2928fedd@trs06.bolab.net:443?security=tls#%F0%9
 trojan://e171fbb0-1a38-427b-a284-b6bde62764d6@43.229.153.121:50500?security=tls&sni=hk.vc4.hyperlinkvpn.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-43.229.153.121-0033
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-0186
 trojan://1b753dd99c1291e87a7b239f2928fedd@trs05.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.18.230.121-0198
-trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&amp;security=none&amp;type=ws#🇸🇬[openproxylist.com] trojan-SG
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🇯🇵[openproxylist.com] trojan-JP
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷[openproxylist.com] trojan-FR
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🇫🇷[openproxylist.com] trojan-FR
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🏳[openproxylist.com] trojan-
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=hk.catxstar.com#🇰🇷[openproxylist.com] trojan-KR
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?security=tls#🇬🇧[openproxylist.com] trojan-GB
 trojan://d1960ba9f0f6353353994fa844cf817b@95.40.107.76:50887?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.249.45:29443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@16.163.123.222:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -57,6 +50,13 @@ trojan://humanity@104.18.152.246:443?allowInsecure=0&sni=www.ignitelimit.com&ws=
 trojan://humanity@104.18.152.113:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://5xjmr1dz66pgsew0@undef.network:8443?allowInsecure=0&sni=com.digitalposts.dpdns.org&ws=1&wspath=%2Fbkdicj#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#%F0%9F%87%AD%F0%9F%87%B0_HK_%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+trojan://1sQSN8Jdj_sdXnso4LasLA@38.54.16.223:42914?path=%2Fc54wi9adhz&amp;security=none&amp;type=ws#🇸🇬[openproxylist.com] trojan-SG
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls#🇯🇵[openproxylist.com] trojan-JP
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🇯🇵[openproxylist.com] trojan-JP
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🏳[openproxylist.com] trojan-
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=hk.catxstar.com#🇰🇷[openproxylist.com] trojan-KR
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=de.catxstar.com#🇬🇧[openproxylist.com] trojan-GB
+trojan://f7983cd4-e487-4138-bde3-477ab31ba25d@panel.safeconfigmasoud.com:443?path=%2Fnova-147299-tj&security=tls&insecure=0&host=panel.safeconfigmasoud.com&type=ws&allowInsecure=0&sni=panel.safeconfigmasoud.com#DE🇩🇪
 trojan://CF68213490@62.112.222.151:443?sni=emerging-weevil.rooster465.autos#NL🇳🇱
 trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#NL🇳🇱
 trojan://KV63147582@legible-possum.rooster465.autos:443#NL🇳🇱
@@ -66,7 +66,6 @@ trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=c
 trojan://PD07395842@fast-ghost.rooster465.autos:443#NL🇳🇱
 trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#NL🇳🇱
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#NL🇳🇱
-trojan://f7983cd4-e487-4138-bde3-477ab31ba25d@panel.safeconfigmasoud.com:443?path=%2Fnova-147299-tj&security=tls&insecure=0&host=panel.safeconfigmasoud.com&type=ws&allowInsecure=0&sni=panel.safeconfigmasoud.com#DE🇩🇪
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@2----------------------------------------------------3.poki-pakipon.ir:20127?mode=gun&security=reality&pbk=MYREt6qtLcC7LITuCCp-nViIclFnqrYbCLazYzCf4lk&fp=chrome&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=a62969e76998c80b#@tootffarangi🍓-15
 trojan://521314@104.248.161.136:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@meliproxyy
 trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@1------------------------------------------------2.poki-pakipon.ir:42963?security=reality&sni=www.icloud.com&fp=chrome&pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI&sid=b34e21b58ecc6362&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%203
