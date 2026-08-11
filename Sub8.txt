@@ -3,10 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%3E%3E%40oneclickvpnkeys%3A%3ATW
-vless://a187888d-a66e-4151-89b0-1667c68bacb2@45.135.194.215:10101?security=none&encryption=none&headerType=none&type=tcp#@V2ray_Alpha🧞 4
-vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJUQUJSSVouTkVUIiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNTgzNCIsInBzIjoi8J+HrvCfh7NUTSAoQEFaQVJCQVlKQUIxKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://Telegram:@Free_VPN_CH@62.182.193.76:443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
 vmess://eyJ2IjoiMiIsImFkZCI6IjY4LjE2OC4zMS4yNDIiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IEQxQzVDRiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiR2xvYmFsIPCfjJAgfCBAUmF5ZGlrYWx4IHwgQjNCM0FCIiwiYWRkIjoiYmVzdDAyLmRvd25sb2FkbW92aWUuY24iLCJwb3J0IjoiNjUwODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yb2NrZXQiLCJob3N0IjoiYmVzdDAyLmRvd25sb2FkbW92aWUuY24iLCJ0bHMiOiIifQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IlJVIPCfh7fwn4e6IHwgQFJheWRpa2FseCB8IEZFNzVFOSIsImFkZCI6IjY3Ljc3NzcxMTIueHl6IiwicG9ydCI6NDQzLCJpZCI6IjIyMTU2NTdlLTJhZjQtNDA1Zi1iNzcwLTRlNjFiMjk4ZDViOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiNjcuNzc3NzExMi54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL1BHc3FiMlNISmZiQ0xvIiwidGxzIjoidGxzIiwic25pIjoiNjcuNzc3NzExMi54eXoiLCJmcCI6bnVsbCwibmFtZSI6IlJVIPCfh7fwn4e6IHwgQFJheWRpa2FseCB8IEZFNzVFOSJ9
@@ -503,3 +499,7 @@ vmess://eyJhZGQiOiAiNTcuMTI5LjEyMS4yMzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRw
 vless://XpnTeam-18@www.speedtest.net:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#@bored_vpn
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS41Ny44NCIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsImFscG4iOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBDNzk4NkEifQ==
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@united.lorluma.ir:6300?security=reality&sni=play.google.com&type=tcp&encryption=none&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none#%F0%9F%9A%A9SERDNS%20VIP
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?type=grpc&mode=gun&security=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&encryption=none#%F0%9F%9A%A9SERDNS%20VIP
+trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#TEL;Father_vpn
+vless://e798361c-d177-4111-ae73-55fd17042a2b@opg.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=9ed2fa#@vmesskhodam
+vless://e50dd1db-2abf-479a-9f8e-69517795faa7@95.182.114.74:443?encryption=none&packetEncoding=xudp#• 🇺🇸 | 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀 - @HesarWeb
