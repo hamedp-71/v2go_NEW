@@ -3,8 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://463a26c2-eba8-0065-89c4-ee5c1373ccbe@84.32.102.235:443?security=reality&type=tcp&packetEncoding=none&sni=dnlch.mostserv.xyz&fp=firefox&flow=xtls-rprx-vision&sid=0f3adaccbda5e56b&pbk=Q6sZPc96fGUJvHsOjwpAc57V16CajEfhkHHhuv-_Bg4#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL1%7C20.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CGM-NL%7CCL-NL%7CSP-NL
-vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?security=tls&type=ws&path=%2Fvless&host=admin.jikebet.com&sni=admin.jikebet.com&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB2%7C20.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-GB%7CGM-GB%7CCL-GB%7CSP-UK
 vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@172.67.216.227:8443?security=tls&type=ws&path=%2FRizZrAcK&host=focalin.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&sni=focalin.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB1%7C21.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-GB%7CSP-UK
 trojan://AE62539071@moved-bluegill.rooster465.autos:443?sni=moved-bluegill.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE6%7C21.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 trojan://AE62539071@proper-marlin.rooster465.autos:443?sni=proper-marlin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE5%7C22.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
@@ -503,3 +501,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:809#[001771] - 🇸🇬 Singapore | @freenettir
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#@MDvpnSec 🌀
 vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@Canadaandjake.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=chrome&type=tcp&sni=play.google.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.123:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@tri.montago-shop.ir:42538?encryption=none&security=none&type=tcp&headerType=http&host=tra.montago-shop.ir&path=/#@Daily_Configs
