@@ -130,6 +130,7 @@ hy2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443/?sni=de1.apexvpn.sp
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#EPODONIOS
 hy2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com#波兰
+hy2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com#EPODONIOS
 hy2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253/?insecure=1&sni=144.225.187.153#美国4@wxgqlfx#EPODONIOS
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?sni=grape-zet-turbo-nl.yyuyy.com#EPODONIOS
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443/?sni=grape-zet-turbo-nl.yyuyy.com#EPODONIOS
@@ -139,6 +140,8 @@ hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.121:8443/?sni=grape-zet-
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.120:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#EPODONIOS
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.119:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#EPODONIOS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦141758
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#EPODONIOS
@@ -500,6 +503,3 @@ trojan://AE62539071@13.158.135.118:443?sni=literate-cow.rooster465.autos&type=tc
 trojan://AE62539071@13.231.24.177:443?sni=easy-barnacle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP127%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
 trojan://AE62539071@sharing-duck.rooster465.autos:443?sni=sharing-duck.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US93%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
 trojan://AE62539071@52.195.215.182:443?sni=premium-perch.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP126%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
-trojan://AE62539071@43.203.212.56:443?sni=oriented-pegasus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20KR47%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-KR%7CGM-KR%7CCL-KR%7CSP-KR
-trojan://AE62539071@excited-sole.rooster465.autos:443?sni=excited-sole.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG30%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CGM-SG%7CCL-SG%7CSP-SG
-trojan://AE62539071@52.194.223.176:443?sni=clear-heron.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP125%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
