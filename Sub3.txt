@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://FH72359861@alert-redfish.rooster465.autos:443?sni=alert-redfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP45%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@pretty-adder.rooster465.autos:443?sni=pretty-adder.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP44%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@epic-iguana.rooster465.autos:443?sni=epic-iguana.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE66%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CCL-DE%7CSP-DE
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&type=raw&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US65%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
@@ -502,4 +503,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiU2VydmVyIDIzIPCfh7rwn4e4IiwiYWRkIjoiODIuMTk4LjI0Ni45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#Server 22 🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#Server 21 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@fr3.levikogjgfdd.ir:8388#Server 20 🇫🇷
-vless://e056ef00-8622-07d0-86d2-68db9a113170@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=search.setlisting.ru&type=raw#Server 19 🇷🇺
