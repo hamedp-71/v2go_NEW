@@ -3,6 +3,8 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://01479a99-4222-6bec-8093-47353b3991b9@inetchnl-production-48d6.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=inetchnl-production-48d6.up.railway.app&path=/xhttp-siz10/packet-up/01479a99-4222-6bec-8093-47353b3991b9&sni=inetchnl-production-48d6.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇳🇱@iNetChnl-XHTTP1
+trojan://AE62539071@infinite-tuna.rooster465.autos:443?sni=infinite-tuna.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%20140
 vless://f4685d27-73e3-4588-9622-add50b84046a@45.67.139.50:9800?encryption=none&security=none&type=tcp#🌀93@oneclickvpnkeys
 vless://7f082bc5-f127-4aca-88af-07eca43d6170@record.sinafc.ir:2087?encryption=none&fp=chrome&pbk=-zXkpxfsN4tyaVW5Hn1TSeAXOiEJDx-G7Fo_F2hl_SM&security=reality&sid=10523cf3&sni=support-shield.nvidia.se&spx=/712d24b3af3d499&type=tcp#🇩🇪145582 | ⚡️Telegram = t.me/SOSkeyNET
 vless://44824a9f-b551-41f3-b561-0c130978d540@Fan1land09km.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮@FreakConfig
@@ -501,5 +503,3 @@ trojan://AE62539071@darling-mutt.rooster465.autos:443?security=tls&sni=darling-m
 trojan://AE62539071@13.124.51.251:443?sni=allowed-hermit.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%2058
 trojan://AE62539071@strong-haddock.rooster465.autos:443?sni=strong-haddock.rooster465.autos&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%2024
 trojan://FH72359861@54.72.58.12:443?sni=darling-mongrel.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%209
-vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565?security=none&type=ws&path=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2008
-vless://cbfc7699-4ba5-47fd-bfb0-bdc1f42a7099@104.16.72.162:8443?path=/&security=tls&encryption=none&insecure=0&host=france-8.psntbt.com.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.psntbt.com.#تلگرام PROXY_MTM-22
