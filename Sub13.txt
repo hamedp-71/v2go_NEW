@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://baadeb43-ab3d-40f2-b1e6-5e3d4104f06c@2.58.56.215:2054?encryption=none&type=grpc&serviceName=grpc&security=reality&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sni=www.ibm.com&sid=423bccc9c13fb509#[🇳🇱] [vl-re-gr] [260818-105235.496]
 vless://086422b2-3347-45f8-b527-d9e1be25dc56@85.192.41.222:25565?encryption=none&type=grpc&serviceName=UpdateService&security=reality&fp=chrome&pbk=pBd5IOD_sCDpIDqgi6EtZ6DAAMGns9n2C3qPH0i3Tno&sni=yandex.ru&sid=0e29dc68#[🇳🇱] [vl-re-gr] [260818-105122.592]
 vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?encryption=none&type=ws&host=soft-shadow-1e33.xicav73335.workers.dev&path=%2Fws&security=none#[🇳🇱] [vl-no-ws] [260818-105253.611]
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.27.68.164:2086?encryption=none&type=ws&host=misty-bread-fd96.salehinezhadali.workers.dev&path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&security=none#[🇳🇱] [vl-no-ws] [260818-105242.987]
@@ -503,3 +502,4 @@ trojan://humanity@104.17.111.4:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&
 trojan://PQ05174892@13.115.247.230:443?sni=ethical-raccoon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20373
 vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.236.188:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20102ms
 vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&security=reality&fp=chrome&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&headerType=none&encryption=none#[25065] - Telegram : @V2All
+vless://f7c25743-140c-4d32-a296-a53bc49682d8@5.255.112.81:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#🆔surfboardv2ray%20🔒%20VL-TCP-%20❔%20XX%20down
