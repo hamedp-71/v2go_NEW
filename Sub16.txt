@@ -3,8 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vmess://eyJhZGQiOiAiNjguMTgzLjIwOS4xODAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQ1MTIxMTU0LWNlZDYtNDYwZC1hOWZkLTU4OTIwMjdhYjRhMCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ncmFwaHFsIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
-trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2011
 vless://a390d188-091b-4644-9804-14a2539ad6c7@69.46.46.229:443?path=/ws/vless/a390d188-091b-4644-9804-14a2539ad6c7?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web-production-878d1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=web-production-878d1.up.railway.app#🇺🇸145695 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7e4da171-9fce-463b-949a-d2b3065500ed@goo.ashahan.ir:2077?path=/&security=tls&encryption=none&insecure=0&host=world.ashahan.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=world.ashahan.ir#MTMVPN 62
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#%3E%3E%40configV2rayNG%3A%3AUS
@@ -503,3 +501,5 @@ vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@212.118.43.237:443?security=reality
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0Ny44My4xOC4xMCIsICJwb3J0IjogIjM2OTY4IiwgImlkIjogIjE3NmJmMWRkLTY0N2YtNGMwOS04OTJlLTVmOTIyM2RjODYxNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiSEsyIn0=
 trojan://AE62539071@grand-grub.rooster465.autos:443?sni=grand-grub.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%20143
 vmess://eyJhZGQiOiAiMTkyLjI0OC4xNjMuMTQ4IiwgImFpZCI6IDAsICJpZCI6ICI2NDdjMmRjNi1mZDQ4LTRhODQtOWI1OS0xNjNkZjE5YWQ2ZjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzY0N2MyZGM2LWZkNDgtNGE4NC05YjU5LTE2M2RmMTlhZDZmOSIsICJwb3J0IjogNTMyMjQsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.36-0132
+trojan://AE62539071@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%ad%f0%9f%87%b0%20HK%208
