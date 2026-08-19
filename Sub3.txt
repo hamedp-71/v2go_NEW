@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://EQ30679154@absolute-teal.rooster465.autos:443?sni=absolute-teal.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US71%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
 trojan://EQ30679154@pretty-bluejay.rooster465.autos:443?sni=pretty-bluejay.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG60%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG%7CCL-SG%7CSP-SG
 trojan://FH72359861@52.195.225.156:443?sni=many-pangolin.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP48%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://AE62539071@dominant-jaguar.rooster465.autos:443?sni=dominant-jaguar.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US70%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
@@ -483,7 +484,7 @@ trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#Server 153
 trojan://FH72359861@apt-whippet.rooster465.autos:443?security=tls&path=/#Server 152 🇰🇷
 trojan://PQ05174892@13.158.129.134:443?sni=grateful-leech.rooster465.autos&fp=chrome&type=tcp&path=/#Server 151 🇯🇵
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?encryption=none&security=none&type=ws#Server 150 🇺🇸
-vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IlNlcnZlciAxNDkgIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IlNlcnZlciAxNDkg8J+Hr/Cfh7UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#Server 148 🇩🇪
 trojan://fVZMat1g9H@172.236.133.188:52?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=172.236.133.188#Server 147 🇸🇬
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Server 146 🇯🇵
@@ -502,4 +503,3 @@ trojan://FH72359861@3.39.255.246:443?sni=fit-marten.rooster465.autos&type=tcp&pa
 trojan://FH72359861@57.180.23.141:443?sni=engaged-lionfish.rooster465.autos&type=tcp&fp=chrome#Server 133 🇯🇵
 vmess://eyJ2IjoiMiIsInBzIjoiU2VydmVyIDEzMiDwn4e48J+HrCIsImFkZCI6ImJvYXJkLTAyLmRkbnNrdW5sdW4uY29tIiwicG9ydCI6IjExOTg1IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE4YmNjZTQzLWFiZGEtMzE1Yi04ZTgxLWUzZTY1YmNiM2QwNyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJib2FyZC0wMi5kZG5za3VubHVuLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Server 131 🇳🇱
-vmess://eyJhZGQiOiIxNjIuMTkuMTkyLjg5IiwiYWlkIjowLCJob3N0IjoiNDA3YTJiYzZkNDUyZmY5M2U2ZDdiNzMwNzg1MzlkOWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsImlkIjoiOTdjNjM4YzYtODZkNS00Y2Y2LWI3MGItMTE0YzY4MDliNjM3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxNjYzMiIsInBzIjoiU2VydmVyIDEzMCDwn4ep8J+HqiIsInNuaSI6IjQwN2EyYmM2ZDQ1MmZmOTNlNmQ3YjczMDc4NTM5ZDllLm1vYmdzbGIudGJjYWNoZS5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
