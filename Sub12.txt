@@ -3,6 +3,7 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&type=raw&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US85%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
 trojan://PQ05174892@intense-kid.rooster465.autos:443?sni=intense-kid.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP109%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@hys40.wba-pn.ru:443?security=tls&type=ws&path=%2F&sni=hys40.wba-pn.ru&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL22%7C1.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CCL-NL%7CSP-NL
 trojan://EQ30679154@united-frog.rooster465.autos:443?sni=united-frog.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP108%7C1.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -409,7 +410,7 @@ trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#Server 153
 trojan://FH72359861@apt-whippet.rooster465.autos:443?security=tls&path=/#Server 152
 trojan://PQ05174892@13.158.129.134:443?sni=grateful-leech.rooster465.autos&fp=chrome&type=tcp&path=/#Server 151 🇯🇵
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?encryption=none&security=none&type=ws#Server 150 🇺🇸
-vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IlNlcnZlciAxNDkgIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IlNlcnZlciAxNDkg8J+Hr/Cfh7UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#Server 148 🇩🇪
 trojan://fVZMat1g9H@172.236.133.188:52?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=172.236.133.188#Server 147 🇸🇬
 trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Server 146 🇯🇵
@@ -455,11 +456,11 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#Server 107 🇰🇷
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjowLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnJhMzMuY2hhc2VtMjAyNnN1ZC5jb20iLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MTgwLCJwcyI6IlNlcnZlciAxMDYg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://FH72359861@52.196.34.5:443?sni=welcome-owl.rooster465.autos&type=tcp&fp=chrome#Server 105 🇯🇵
 trojan://FH72359861@52.68.147.250:443?sni=sterling-fowl.rooster465.autos&path=/#Server 104 🇯🇵
-vless://ea6db8fa-7e15-4eb2-87f1-22004ac00061@213.193.254.131:443?security=tls&encryption=none&fp=chrome&type=grpc&serviceName=sync.v2.SyncService&sni=video.she-happ.com#Server 103 🇳🇱
+vless://ea6db8fa-7e15-4eb2-87f1-22004ac00061@213.193.254.131:443?security=tls&encryption=none&fp=chrome&type=grpc&serviceName=sync.v2.SyncService&sni=video.she-happ.com#Server 103 🇬🇧
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#Server 102 🇭🇰
 trojan://FH72359861@3.113.14.127:443?sni=bright-quagga.rooster465.autos&type=tcp&path=/#Server 101 🇯🇵
 vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwiYWlkIjowLCJob3N0IjoiWW91VHViZS1hd2Vpa2VqaSIsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJTZXJ2ZXIgMTAwIPCfh7Dwn4e3IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ2IjoiMiJ9
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#Server 99 🇨🇦
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.18.1.1:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=calm-smoke-1a21.alvlirm6262.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=calm-smoke-1a21.alvlirm6262.workers.dev#Server 99 🇺🇸
 trojan://FH72359861@54.168.208.137:443?sni=communal-troll.rooster465.autos&fp=chrome&type=tcp&path=/#Server 98 🇯🇵
 trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos&type=tcp&path=/#Server 97 🇺🇸
 vless://ea6db8fa-7e15-4eb2-87f1-22004ac00061@video.she-happ.com:443?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=sync.v2.SyncService&sni=video.she-happ.com#Server 96 🇳🇱
@@ -498,8 +499,7 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#Server 64 🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Server 63 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@au1.levikogjgfdd.ir:27116#Server 62 🇦🇺
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&headerType=none&type=tcp#Server 61 🇺🇸
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#Server 60 🇩🇪
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#Server 60 🇳🇱
 trojan://fg20mtCFHy@147.182.198.83:5444?allowInsecure=1&amp;sni=sfouctc.southbyte.xyz#Server 59 🇺🇸
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#Server 58 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#Server 57 🇳🇱
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&sni=139.59.238.97&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#Server 56 🇸🇬
