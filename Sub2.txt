@@ -3,6 +3,11 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgfCBAV2hpdGVETlMgfCBDQTQwfDEuMk1CL3N8R1BU4oG6LUNBfENMLUNBfFNQLUNBIiwiYWRkIjoiMTM0LjE5NS4xOTYuMjExIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@93.123.39.155:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ee.cdn-global.pro&fp=firefox&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0#%F0%9F%87%AA%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20EE34%7C1.2MB%2Fs%7CGPT%E2%81%BA-EE%7CCL-EE%7CSP-EE
+trojan://PQ05174892@modest-amoeba.rooster465.autos:443?sni=modest-amoeba.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP580%7C1.2MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+vless://49c86212-ae0b-430e-9abb-244e715b533f@152.42.221.198:443?security=tls&type=ws&path=%2F&sni=paid.sshehi.ggff.net&fp=firefox&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG94%7C1.2MB%2Fs%7CGPT%E2%81%BA-SG%7CGM-SG%7CCL-SG%7CSP-SG
+trojan://PQ05174892@well-marmot.rooster465.autos:443?sni=well-marmot.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK142%7C1.2MB%2Fs%7CSP-HK
 trojan://FH72359861@loyal-killdeer.rooster465.autos:443?sni=loyal-killdeer.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP579%7C1.2MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://PQ05174892@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US355%7C1.2MB%2Fs%7CGPT%E2%81%BA-US%7CCL-US%7CSP-US
 trojan://PQ05174892@pumped-clam.rooster465.autos:443?sni=pumped-clam.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP578%7C1.2MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -498,8 +503,3 @@ trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&allowIn
 vless://e1497c37-4943-4b99-918b-ee52a0976d29@zhci-1936eeu.solvera.top:443?security=reality&type=tcp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=905354e3cbb8e2fb&pbk=l7JQh1wolRUB1fiUDIMjbgKksM2hMfQaOr4yeFUZLQk#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG81%7C1.3MB%2Fs%7CGPT%E2%81%BA-SG%7CGM-SG%7CCL-SG%7CSP-SG
 trojan://AE62539071@18.183.250.98:443?sni=together-mayfly.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP250%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://AE62539071@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP249%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
-trojan://PQ05174892@185.14.47.222:443?sni=well-marmot.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK99%7C1.3MB%2Fs%7CSP-HK
-trojan://EQ30679154@3.112.44.90:443?sni=brave-tomcat.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP248%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
-trojan://FH72359861@champion-panther.rooster465.autos:443?sni=champion-panther.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP247%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@223.122.123.74:30100?security=tls&type=tcp&sni=xiweini.dpdns.org&fp=firefox&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK98%7C1.3MB%2Fs%7CSP-HK
-trojan://AE62539071@87.121.33.185:443?sni=humorous-llama.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20%7C%20%40WhiteDNS%20%7C%20AU14%7C1.3MB%2Fs%7CGPT%E2%81%BA-AU%7CCL-AU%7CSP-AU
