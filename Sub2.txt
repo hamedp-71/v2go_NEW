@@ -3,6 +3,9 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+vless://6f339a8a-6c15-4104-a9ef-95f2082e8e53@103.76.85.207:443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d243260730435fb4&pbk=wz7upg9oyxhWauuxq8wT0vwm-zwq2GlGqXPuRyjHVTs&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP696%7C1.0MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://PQ05174892@52.199.134.162:443?sni=modest-pup.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP695%7C1.0MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
+trojan://FH72359861@18.183.226.106:443?sni=living-hagfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP694%7C1.0MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgfCBAV2hpdGVETlMgfCBLUjE3fDEuME1CL3N8R1BU4oG6LUtSfEdNLUtSfENMLUtSfFNQLUtSIiwiYWRkIjoiMjE3LjE0Mi4xMzguNjEiLCJwb3J0IjoiODAiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
 trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL107%7C1.0MB%2Fs%7CGPT%E2%81%BA-PL%7CGM-PL%7CCL-PL%7CSP-PL
 trojan://AE62539071@coherent-newt.rooster465.autos:443?sni=coherent-newt.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP693%7C1.0MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -500,6 +503,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggfCBAV2hpdGVETlMgfCBVUzQxM3wxLjNNQi9zfEdQ
 trojan://FH72359861@185.244.208.69:443?sni=strong-haddock.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK114%7C1.3MB%2Fs%7CSP-HK
 trojan://FH72359861@trusting-elf.rooster465.autos:443?sni=trusting-elf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP442%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://PQ05174892@52.194.186.154:443?sni=evolving-kangaroo.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP441%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
-trojan://FH72359861@52.68.147.250:443?sni=sterling-fowl.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP440%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
-trojan://FH72359861@natural-swan.rooster465.autos:443?sni=natural-swan.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20%7C%20%40WhiteDNS%20%7C%20HK113%7C1.3MB%2Fs%7CSP-HK
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP439%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
