@@ -3,6 +3,13 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
+trojan://AE62539071@18.201.47.180:443?sni=healthy-panda.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2038
+trojan://FH72359861@closing-falcon.rooster465.autos:443?sni=closing-falcon.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2037
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%201
+trojan://EQ30679154@3.112.44.90:443?sni=brave-tomcat.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2014
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?security=none&type=ws&path=/&host=usejh2.neobo-tooth.ru&packetEncoding=xudp&sni=usejh2.neobo-tooth.ru#%3E%3E%40v2nodes%3A%3AFR
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoi4pyoIEBOYW1pcmFDb25maWdzIHwg4p2k77iPINmI2LXZhCDYtNiv24wg2KzZiNuM2YYg2LTZiCB8IOKaoSB8IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://PQ05174892@13.115.247.230:443?sni=ethical-raccoon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20223
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10666#🇷🇺RU-🚀@VPNine1
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIiwiYWRkIjoiZm9yd2FyZDMubWFyeWFtMTUwMC50b3AiLCJwb3J0IjoiODQ0MyIsImlkIjoiZWZkZjFlNGItNmJjYS00YmY5LTg1NjEtMWFmMGU4ZDJjZjg1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Im11bHRpIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiLmnKrnn6UifQ==
@@ -496,10 +503,3 @@ trojan://FH72359861@3.112.4.72:443?sni=definite-hen.rooster465.autos&type=tcp&pa
 trojan://PQ05174892@smiling-ray.rooster465.autos:443?sni=smiling-ray.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%2037
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxOTMuMTExLjc4LjEwNiIsICJwb3J0IjogIjU4MzA0IiwgImlkIjogIjI2YjZmZDMyLTA0ZTYtNDNmZi1hMDY1LWJlYTM2Zjc0ODY1NSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIxNTkuODkuMjkuMTM2IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiZDIwZDZlZGUtNDMzYy0xMWVkLWI4MWYtY2ZkOTA1ZGY5OTU4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImN4LmNvbSIsICJwYXRoIjogIi92bWVzcyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjExMSJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0274
-trojan://FH72359861@equal-labrador.rooster465.autos:443?sni=equal-labrador.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20503
-vless://d3ee4c15-cc8e-4276-9fba-3954fe51e03b@77.92.151.87:8443?type=tcp&security=reality&pbk=6AQLi37t1Y2zy2rsTMigj3CygpcyFdp_zW15syThnig&fp=chrome&sni=www.cloudflare.com&sid=9c482e25a60e04c0&spx=/&flow=xtls-rprx-vision#🇹🇷TR-🚀@VPNine1
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🐦‍🔥23@oneclickvpnkeys
-vless://6dcb725e-947e-4bbe-bb35-903374d57179@rm-us-04.409648.xyz:37735?security=reality&encryption=none&pbk=XPA6z8rF7u5PktPHScbl5rAXzxcZr3GGcWjQsAbgGCQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d1--ov-gotcha07.bilivideo.com&sid=42fe6ac8#🔥Join+Telegram:@Farah_VPN🟣
-vless://68523e2c-59a9-4d9c-b4f8-04f8a72ec15c@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=xhttp&host=Vistitrohamfastvipnexttt.net&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#✅  @vistav2ray  👈👈کانال ما ✅
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#🐦‍🔥8@oneclickvpnkeys
