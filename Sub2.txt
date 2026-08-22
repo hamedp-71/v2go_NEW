@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=%2F&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40WhiteDNS%20%7C%20IT3%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IT%7CCL-IT%7CSP-IT
 trojan://FH72359861@devoted-zebra.rooster465.autos:443?sni=devoted-zebra.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP106%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 trojan://FH72359861@settled-camel.rooster465.autos:443?sni=settled-camel.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP105%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
 ss://2022-blake3-aes-128-gcm:Y2FkNzhhZWQ0MzA1NzlhZA%3D%3D%3AODNiMjQ4NDMtYTY2Mi00Mg%3D%3D@e1acw359hdvf.cdn000.com:31201#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP104%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP%7CGM-JP%7CCL-JP%7CSP-JP
@@ -503,3 +502,4 @@ vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?host=silent-ca
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#Server 29 🇩🇪
 vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@172.67.179.98:8880?host=falling-lake-0b5a.192-3e2.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net+&security=none&type=ws#Server 28 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#Server 27 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#Server 26 🇨🇦
