@@ -3,7 +3,6 @@
 #//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #support-url: https://github.com/hamedp-71/v2go_NEW
 #profile-web-page-url: https://github.com/hamedp-71/v2go_NEW
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?encryption=none&security=tls&sni=gb1.wba-pn.ru&fp=chrome&type=ws&host=gb1.wba-pn.ru&path=/#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://05568b55-9f89-43cd-b91e-221a975f54bc@g2.fastping24.com:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ads1.fastping24.com&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20❔%20XX%20147ms
 trojan://FH72359861@3.112.69.18:443?sni=light-filly.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20980
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJhci5wYXlkYXIuc2l0ZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjAwMTA0MjYzLTViOTktNDkxZi04NWJkLTVmMjk2ZDg0NDdkZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogInBsYXkuZ29vZ2xlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiODQifQ==
@@ -503,3 +502,4 @@ trojan://FH72359861@52.195.225.156:443?security=tls&sni=many-pangolin.rooster465
 trojan://AE62539071@44.243.85.47:443?sni=liked-serval.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2072
 trojan://PQ05174892@13.231.211.208:443?sni=lucky-albacore.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20843
 ss://YWVzLTI1Ni1nY206MTIzNDU=@127.0.0.1:443#GeneralConfiig
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzIiLCJhZGQiOiIxNzIuNjcuMTcxLjQzIiwicG9ydCI6IjgwIiwiaWQiOiJiNzlhNjk1OS02ZmViLTQzYmEtYjNjNy1mMWFmYWU5ZWEzMmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJVazIudm1lc3Muc2l0ZS4iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcyIn0=
