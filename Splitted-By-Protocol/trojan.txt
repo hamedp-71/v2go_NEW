@@ -73,8 +73,10 @@ trojan://Sn%2BJPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@45.88.148.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-0042
 trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵[openproxylist.com] trojan-JP
 trojan://BxceQaOe@18.181.83.46:2944?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com] trojan-LV
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?allowInsecure=1&sni=moltbot.doctoroyy.net#🇲🇾[openproxylist.com] trojan-MY
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com] trojan-EE
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 1
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 3
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=0&sni=vip-nl-1.hkd4fwmg.vip#NL🇳🇱
 trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?allowInsecure=1&fp=chrome#NL🇳🇱
 trojan://AE62539071@193.169.239.14:443?fp=chrome&sni=emerging-weevil.rooster465.autos#NL🇳🇱
@@ -101,16 +103,6 @@ trojan://PQ05174892@actual-aardvark.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://PQ05174892@casual-bullfrog.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#NL🇳🇱
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?sni=powerful-squid.rooster465.autos&fp=chrome&type=tcp&path=%2F#NL🇳🇱
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 1
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 3
-trojan://Telegram_healer_config@104.21.24.95:443?type=ws&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#[🇩🇪] [tr-tl-ws] [260825-074034.670]
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪] [tr-tl-ra] [260825-074036.877]
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?type=raw&headerType=none&security=tls&sni=tr-latvia1.unlimited-access.ru#[🇱🇻] [tr-tl-ra] [260825-074036.647]
-trojan://MiTiVPN@140.248.185.253:443?type=ws&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&fp=chrome&sni=ssl.fastly.com#[🇸🇪] [tr-tl-ws] [260825-074034.047]
-trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?type=ws&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl&security=tls#[🇸🇬] [tr-tl-ws] [260825-074033.256]
-trojan://ND91608427@fleet-bonefish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=fleet-bonefish.rooster465.autos#[🇺🇸] [tr-tl-ra] [260825-074034.321]
-trojan://Aimer@167.68.4.199:2053?type=ws&host=epge.muarua.filegear-sg.me&path=%2F&security=tls&sni=epge.muarua.filegear-sg.me#[🇺🇸] [tr-tl-ws] [260825-074033.609]
-trojan://Mehdi1234@172.64.144.251:2083?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev#[🇺🇸] [tr-tl-ws] [260825-074034.185]
 trojan://humanity@104.16.174.121:443?sni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD24
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#1
 trojan://humanity@104.18.152.246:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
@@ -248,6 +240,15 @@ trojan://FH72359861@obliging-louse.rooster465.autos:443?sni=obliging-louse.roost
 trojan://humanity@104.16.174.12:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@104.18.152.77:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&type=ws&host=space.byu.id.yxls.eu.cc&path=%2fsg-orcl#%f0%9f%87%ba%f0%9f%87%b8%20US%202
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪] [tr-tl-ra] [260825-105639.107]
+trojan://6519a715da174466@jcnp178.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇯🇵] [tr-tl-ra] [260825-105634.460]
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?type=raw&headerType=none&security=tls&sni=tr-latvia1.unlimited-access.ru#[🇱🇻] [tr-tl-ra] [260825-105638.880]
+trojan://MiTiVPN@140.248.185.253:443?type=ws&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-w%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&fp=chrome&sni=ssl.fastly.com#[🇸🇪] [tr-tl-ws] [260825-105636.351]
+trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?type=raw&headerType=none&security=tls#[🇹🇼] [tr-tl-ra] [260825-105635.438]
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸] [tr-tl-ra] [260825-105633.922]
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸] [tr-tl-ra] [260825-105634.377]
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=fleet-bonefish.rooster465.autos#[🇺🇸] [tr-tl-ra] [260825-105636.614]
+trojan://Aimer@167.68.4.199:2053?type=ws&host=epge.muarua.filegear-sg.me&path=%2F&security=tls&sni=epge.muarua.filegear-sg.me#[🇺🇸] [tr-tl-ws] [260825-105635.924]
 trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#TEL:Father_vpn
 trojan://MITIVPN@104.18.152.225:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e&security=tls&alpn=http/1.1&insecure=1&host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
 trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -386,6 +387,13 @@ trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🔥Join+T
 trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&fp=chrome&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#2 🇩🇪 @V2RAYNG_IP
 trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#Server 122 🇭🇰
 trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#Server 152 🇯🇵
+trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 000A56
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US 🇺🇸 | @Raydikalx | 00C11B
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#GB 🇬🇧 | @Raydikalx | 2EBC19
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls#GB 🇬🇧 | @Raydikalx | E84AA9
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#GB 🇬🇧 | @Raydikalx | 758CDE
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#GB 🇬🇧 | @Raydikalx | 8028A3
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#US 🇺🇸 | @Raydikalx | B91F02
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%5BOpenRay%5D%20Dynamic-11672
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12178
