@@ -1,3 +1,5 @@
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🇲🇾[openproxylist.com] trojan-MY
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?security=tls&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.microsoft.com#🇺🇸[openproxylist.com] trojan-US
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#%F0%9F%87%B0%F0%9F%87%BFKZ-5.180.21.146-0144
 trojan://47eba057-a45d-4002-9e11-eaf21c88cefe@178.157.58.99:50500?security=tls&sni=jp.bw6.hyperlinkvpn.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-178.157.58.99-0167
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-0175
@@ -8,7 +10,6 @@ trojan://1a205ae2-be41-42b0-abdf-795a2ea3df4e@t1.gitvpn.eu.org:443?security=tls#
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BBLV-85.159.228.177-0243
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 1
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns 🇭🇰 3
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#🇲🇾[openproxylist.com] trojan-MY
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@tr04.kaochangonline.online:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0023
 trojan://AE62539071@89.39.70.238:443?type=tcp&security=tls&headerType=none&sni=present-warthog.rooster465.autos&insecure=0&allowInsecure=0#NL🇳🇱
 trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#NL🇳🇱
@@ -108,8 +109,39 @@ trojan://humanity@216.24.57.1:443?sni=www.ignitelimit.com&type=ws&path=%2Fassign
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0203
 trojan://humanity@104.16.174.34:443?sni=www.ignitelimit.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2007
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1
-trojan://humanity@104.16.174.121:443?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#[🇫🇷] [tr-tl-ws] [260831-175021.535]
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?type=raw&headerType=none&security=tls&sni=borat-hopp.bumbleshrimp.com#[🇺🇳] [tr-tl-ra] [260831-175021.910]
+trojan://humanity@104.16.174.121:443?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#[🇫🇷] [tr-tl-ws] [260901-003032.728]
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?type=raw&headerType=none&security=tls&sni=borat-hopp.bumbleshrimp.com#[🇺🇳] [tr-tl-ra] [260901-003033.031]
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#Server 103
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#Server 113
+trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#Server 154 🇭🇰
+trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#Server 161 🇯🇵
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#Server 174
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20023?allowInsecure=1&sni=hk.catxstar.com#Server 175
+trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?security=tls&sni=hk.catxstar.com#Server 178
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%5BOpenRay%5D%20Dynamic-11672
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12178
+trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-12539
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#%5BOpenRay%5D%20Dynamic-11959
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20%7C%20%40WhiteDNS%20%7C%20MY12%7C2.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-MY
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP202%7C1.6MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP234%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP236%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP247%7C1.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://0964f6b7-6aab-4b84-9e80-dd078ed1f269@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP257%7C1014KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://8539b07d-4a48-46ca-8ce7-f961f4e35b0c@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP259%7C1012KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+trojan://b454c830-7d58-4072-89a5-e0715e3e0b87@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP260%7C1011KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#马来西亚
 trojan://Go5e2nKM9U@188.42.88.252:2087?path=JoinUs%40v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%8C%8F+%40v2ray_ar+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88وصل شدیدحمایت یادتون نره ♥️سروررایگان 👇👇@v2ray_arسرور فروشی👇👇@oorg_ar
@@ -237,24 +269,3 @@ trojan://telegram-id-directvpn@3.236.90.173:22222?security=tls&alpn=http/1.1&hea
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@NOFiLTERING2🇩🇪
 trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@v2rayng3
 trojan://AE62539071@89.39.70.238:443?security=tls&insecure=0&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=present-warthog.rooster465.autos#@i10VPN🚀
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@hkdcrtc-e.catcat321.com:20066?security=tls&sni=hk.catxstar.com#Server 103
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20066?allowInsecure=1&sni=hk.catxstar.com#Server 113
-trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#Server 154 🇭🇰
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&path=/#Server 161 🇯🇵
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#Server 174
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20023?allowInsecure=1&sni=hk.catxstar.com#Server 175
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20085?security=tls&sni=hk.catxstar.com#Server 178
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%5BOpenRay%5D%20Dynamic-11672
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12178
-trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%5BOpenRay%5D%20Dynamic-12539
-trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#%5BOpenRay%5D%20Dynamic-11959
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Lyon%20%7C%20%5BBL%5D
-trojan://RJbtIstwtcU5buDY3r@nl-4.tr202604.com:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://RJbtIstwtcU5buDY3r@nl-4.tr202604.com:443?sni=nl-4.tr202604.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL650%7C5.9MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL
-trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?sni=nl-1.tr202604.com&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL664%7C4.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?sni=moltbot.doctoroyy.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%BE%20%7C%20%40WhiteDNS%20%7C%20MY9%7C1.9MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-MY
-trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP209%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
-trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?sni=v2jp.k1.ssnss.live&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP219%7C1.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
